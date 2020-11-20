@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 3%
@@ -31,17 +31,14 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 
 * **[Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics (video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Meer tips over het opnieuw maken van Adobe Analytics-segmenten in Customer Journey Analytics*
 
 * **[Berekende waarden verplaatsen van Adobe Analytics naar Customer Journey Analytics (video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Meer tips voor het opnieuw maken van je Adobe Analytics Berekende Metrics in Customer Journey Analytics*
 
 * **[Kanaalfilters maken (video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
 
 ## Personeelspictogrammen
