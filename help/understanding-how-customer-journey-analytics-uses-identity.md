@@ -1,17 +1,18 @@
 ---
 title: Begrijpen hoe Customer Journey Analytics identiteit gebruikt
-description: Deze video is geen technisch diep duiken, maar een praktische blik op hoe de identiteit uw analyse in Customer Journey Analytics beïnvloedt, met inbegrip van een blik op dwars-kanaalvisualisaties die door bezoekersidentiteitskaart mogelijk worden gemaakt te stikken.
+description: Deze video is geen technisch diep duiken, maar een praktische blik op hoe de identiteit uw analyse in Adobe Customer Journey Analytics beïnvloedt, met inbegrip van een blik op dwars-kanaalvisualisaties die door bezoekersidentiteitskaart mogelijk worden gemaakt te stikken.
 feature: customer journey analytics
 topics: topics
 audience: analyst, marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30750.jpg
 kt: 3955
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 8%
 
 ---
