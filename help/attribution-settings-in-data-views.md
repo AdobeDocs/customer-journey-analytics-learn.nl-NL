@@ -1,17 +1,18 @@
 ---
 title: Attributie-instellingen in gegevensweergaven in Customer Journey Analytics
-description: Wanneer het vormen van de Mening van Gegevens in Customer Journey Analytics, kunt u attributie montages kiezen om te controleren hoe de afmetingen en de metriek zullen samenwerken. In deze video worden de standaardinstellingen, de opties en de interactie tussen de instellingen voor metrische en dimensievertoning besproken.
+description: Wanneer het vormen van de Mening van Gegevens in Customer Journey Analytics van Adobe, kunt u attributie montages kiezen om te controleren hoe de dimensies en metriek zullen samenwerken. In deze video worden de standaardinstellingen, de opties en de interactie tussen de instellingen voor metrische en dimensievertoning besproken.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
