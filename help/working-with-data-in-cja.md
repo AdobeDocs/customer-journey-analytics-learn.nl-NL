@@ -1,17 +1,18 @@
 ---
 title: Werken met gegevens in Customer Journey Analytics
-description: In deze video leert u hoe datasetschema's worden vertaald in variabelen in Customer Journey Analytics (CJA) en hoe CJA zeer hoge kardinaliteit behandelt.
+description: In deze video leert u hoe datasetschema's worden vertaald in variabelen in Adobe Customer Journey Analytics (CJA), en hoe CJA zeer hoge kardinaliteit behandelt.
 feature: customer journey analytics
 topics: null
 audience: administrator, analyst, marketer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32112.jpg
 kt: 3964
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 9%
 
 ---
