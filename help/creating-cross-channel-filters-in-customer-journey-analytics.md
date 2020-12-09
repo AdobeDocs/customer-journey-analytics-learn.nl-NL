@@ -1,17 +1,18 @@
 ---
 title: Kanaalfilters maken in Customer Journey Analytics
-description: In deze video bespreken we hoe we filters in Customer Journey Analytics kunnen maken die meer dan één gegevensbron en meer dan één kanaal gebruiken. U zult ook zien hoe deze filters in visualisaties kunnen worden gecombineerd.
+description: In deze video bespreken we hoe we filters in Adobe Customer Journey Analytics kunnen maken die meer dan één gegevensbron en meer dan één kanaal gebruiken. U zult ook zien hoe deze filters in visualisaties kunnen worden gecombineerd.
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31983.jpg
 kt: 3962
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
