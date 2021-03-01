@@ -6,8 +6,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: 2c6bf7c51df9ffdc40aca130faa4f5f6ed94895f
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '89'
+ht-degree: 5%
 
 ---
 
