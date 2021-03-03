@@ -1,27 +1,28 @@
 ---
 title: Kanaaloverschrijdende visualisaties maken in Customer Journey Analytics
 description: In deze video leert u hoe u met Adobe Customer Journey Analytics visualisaties kunt maken die gegevens uit meerdere gegevenssets op meerdere kanalen bevatten, waaronder het samenvoegen van de gegevens per bezoeker.
-feature: customer journey analytics
+feature: Visualisaties
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 
 
-# Kanaal overschrijven maken [!UICONTROL Visualizations] in Customer Journey Analytics
+# Kanaal [!UICONTROL Visualizations] maken in Customer Journey Analytics
 
-In deze video ontdekt u hoe u met Customer Journey Analytics gegevens van meerdere [!UICONTROL visualizations] kanalen kunt maken, inclusief het samenvoegen van de gegevens per kanaal [!UICONTROL datasets] [!UICONTROL visitor].
+In deze video, ontdek hoe u met Customer Journey Analytics [!UICONTROL visualizations] kunt creëren die gegevens van veelvoudige [!UICONTROL datasets] over veelvoudige kanalen, met inbegrip van het samenvoegen van de gegevens per [!UICONTROL visitor] omvatten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html)voor meer informatie over Customer Journey Analytics.
+Voor meer informatie over Customer Journey Analytics, bezoek [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
