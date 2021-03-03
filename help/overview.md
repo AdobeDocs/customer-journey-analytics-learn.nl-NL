@@ -1,17 +1,17 @@
 ---
 title: Customer Journey Analytics Video's en Tutorials
 description: Een verzameling video's en zelfstudies voor Adobe Customer Journey Analytics.
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 3%
+source-wordcount: '308'
+ht-degree: 2%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 3%
 
 Welkom bij de site [!DNL Customer Journey Analytics] Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Analytics kunt gebruiken om klanten met meerdere kanalen sneller dan ooit inzicht te geven in de situatie.  Aan de slag,
 
-* Zie de **sectie &quot;Nieuwe functies&quot;** hieronder voor de nieuwste goodies
-* **Personeelspictogrammen** markeren enkele van onze favoriete content
-* Verken de inhoud per onderwerp en subtopic in de **linkernavigatie**
-* Gebruik het **zoekveld** boven aan de pagina als u weet waarnaar u zoekt
+* Zie de **&quot;Nieuwe functies&quot;** sectie hieronder voor de nieuwste gooien
+* **Personeelszaken** Pickshighlights een deel van onze favoriete inhoud
+* Verken de inhoud per onderwerp en subtopic in **linkernavigatie**
+* Gebruik het veld **search** boven aan de pagina als u weet wat u zoekt
 
 Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens in Analysis Workspace verbindt met een gemeenschappelijke klant-id, zodat u uiteindelijk kunt toewijzen, segmenteren, doorlopen, fallout enzovoort. voor de gehele gegevensset van de klant.
 
