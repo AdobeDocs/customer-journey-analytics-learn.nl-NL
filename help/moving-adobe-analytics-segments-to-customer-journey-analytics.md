@@ -1,27 +1,29 @@
 ---
 title: Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics
 description: In deze video leert u tips voor het opnieuw maken van Adobe Analytics-segmenten als 'filters' in Customer Journey Analytics.
-feature: customer journey analytics
+feature: Filters
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
+topic: Migratie
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 10%
 
 ---
 
 
 # Adobe Analytics [!UICONTROL Segments] naar Customer Journey Analytics verplaatsen
 
-In deze video leert u tips voor het opnieuw maken van uw Adobe Analytics [!UICONTROL segments] als &#39;[!UICONTROL filters]&#39; in Customer Journey Analytics.
+In deze video leert u tips voor het opnieuw maken van uw Adobe Analytics [!UICONTROL segments] als &quot;[!UICONTROL filters]&quot; in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html)voor meer informatie over Customer Journey Analytics.
+Voor meer informatie over Customer Journey Analytics, bezoek [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
