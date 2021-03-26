@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 5%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 5%
 + [Inleiding tot filters](/help/introduction-to-filters-in-cja.md)
 + [Kanaalfilters maken](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Blauwdrukken {#blueprints}
+   + [Customer Journey Analytics vervagen](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [Het scenario van de Analyse van de Vervorming van de Vraag](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
