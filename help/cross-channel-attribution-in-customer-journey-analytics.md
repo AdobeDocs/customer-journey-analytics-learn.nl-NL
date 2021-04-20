@@ -1,15 +1,15 @@
 ---
 title: Kanaalkenmerk in Customer Journey Analytics
 description: In deze video wordt getoond hoe u visualisaties kunt gebruiken om attributie (credit geven) weer te geven over kanalen in Adobe Customer Journey Analytics.
-feature: Attributie
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

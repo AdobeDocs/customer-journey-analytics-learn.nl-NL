@@ -1,15 +1,15 @@
 ---
 title: Kanaaloverschrijdende visualisaties maken in Customer Journey Analytics
 description: In deze video leert u hoe u met Adobe Customer Journey Analytics visualisaties kunt maken die gegevens uit meerdere gegevenssets op meerdere kanalen bevatten, waaronder het samenvoegen van de gegevens per bezoeker.
-feature: Visualisaties
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Basisconfiguratie voor gegevensweergaven in Customer Journey Analytics
 description: Zodra u een verbinding in Adobe Customer Journey Analytics aan gegevensreeksen in Adobe Experience Platform hebt gecreeerd, moet u een Mening van Gegevens voor die Verbinding tot stand brengen, zodat u de gegevens in Analysis Workspace op Platform kunt gebruiken. Deze video bespreekt u de basisconfiguratie van een Mening van Gegevens.
-feature: Gegevens
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
-role: Beheerder
-level: Begin
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
