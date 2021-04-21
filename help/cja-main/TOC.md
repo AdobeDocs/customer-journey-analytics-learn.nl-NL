@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
+source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 3%
 + [Werken met gegevens](/help/working-with-data-in-cja.md)
 + [Verbinding maken met gegevensbronnen in Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Basisconfiguratie voor gegevensweergaven](/help/basic-configuration-for-data-views.md)
++ [Componentinstellingen configureren in gegevensweergaven](/help/configuring-component-settings-in-data-views.md)
++ [Metrische gegevens opmaken in gegevensweergaven](/help/formatting-metrics-in-data-views.md)
 + [Attributie-instellingen in gegevensweergaven](/help/attribution-settings-in-data-views.md)
 + [Begrijpen hoe CJA Identiteit gebruikt](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Oude gegevens toevoegen aan een bestaande verbinding](/help/add-past-data-to-an-existing-connection-in-cja.md)
