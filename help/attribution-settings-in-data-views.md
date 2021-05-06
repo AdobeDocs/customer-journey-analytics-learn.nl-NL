@@ -1,31 +1,24 @@
 ---
-title: Attributie-instellingen in gegevensweergaven in Customer Journey Analytics
-description: Wanneer het vormen van de Mening van Gegevens in Customer Journey Analytics van Adobe, kunt u attributie montages kiezen om te controleren hoe de dimensies en metriek zullen samenwerken. In deze video worden de standaardinstellingen, de opties en de interactie tussen de instellingen voor metrische en dimensievertoning besproken.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Attributie-instellingen in gegevensweergaven
+description: Elke dimensie moet een toewijzingsinstelling hebben (om te bepalen welke waarde krediet voor conversie krijgt) en een vervalinstelling (hoe lang de waarde blijft bestaan), zodat het systeem weet hoe waarde aan de waarden van de dimensie moet worden toegewezen. Op dezelfde manier, en het samenwerken, zouden de metriek een attributiemodel en terugkijkvenster ook moeten hebben dat wordt geplaatst. Deze video bespreekt u door het plaatsen van deze alle-belangrijke montages.
+feature: Gegevens
+topic: Beheer
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '134'
+ht-degree: 0%
 
 ---
 
+# [!UICONTROL Attribution] Instellingen in  [!UICONTROL Data Views]
 
-# [!UICONTROL Attribution] Instellingen in  [!UICONTROL Data Views] Customer Journey Analytics
-
-Wanneer u [!UICONTROL Data Views] in Customer Journey Analytics configureert, kunt u [!UICONTROL attribution]-instellingen kiezen om te bepalen hoe [!UICONTROL dimensions] en [!UICONTROL metrics] samenwerken. In deze video worden de standaardinstellingen, de opties en de interactie tussen de instellingen [!UICONTROL metric] en [!UICONTROL dimension] [!UICONTROL attribution] besproken.
+Elke dimensie moet een toewijzingsinstelling hebben (om te bepalen welke waarde krediet voor conversie krijgt) en een vervalinstelling (hoe lang de waarde blijft bestaan), zodat het systeem weet hoe waarde aan de waarden van de dimensie moet worden toegewezen. Op dezelfde manier, en het samenwerken, zouden de metriek een attributiemodel en terugkijkvenster ook moeten hebben dat wordt geplaatst. Deze video bespreekt u door het plaatsen van deze alle-belangrijke montages.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Aanvullende resources
-
-* [Basisconfiguratie voor gegevensweergaven](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html) voor de configuratie van gegevensweergaven.
