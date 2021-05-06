@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -21,9 +21,12 @@ ht-degree: 2%
 + [Verbinding maken met gegevensbronnen in Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Basisconfiguratie voor gegevensweergaven](/help/basic-configuration-for-data-views.md)
 + [Componentinstellingen configureren in gegevensweergaven](/help/configuring-component-settings-in-data-views.md)
++ [Instellingen voor componenttypen in gegevensweergaven](/help/component-type-settings-in-data-views.md)
 + [Metrische gegevens opmaken in gegevensweergaven](/help/formatting-metrics-in-data-views.md)
++ [Metrische waarden in gegevensweergaven opnemen of uitsluiten](/help/include-or-exclude-metric-values-in-data-views.md)
 + [Waardeemmers maken in gegevensweergaven voor analyse](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Dimensiewaarden in gegevensweergaven opnemen of uitsluiten](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [Geen waardeopties configureren in gegevensweergaven](/help/configure-no-value-options-in-data-views.md)
 + [Attributie-instellingen in gegevensweergaven](/help/attribution-settings-in-data-views.md)
 + [Begrijpen hoe CJA Identiteit gebruikt](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Oude gegevens toevoegen aan een bestaande verbinding](/help/add-past-data-to-an-existing-connection-in-cja.md)
