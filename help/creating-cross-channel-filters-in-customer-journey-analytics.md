@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '104'
 ht-degree: 7%
 
 ---
-
 
 # Kanaal [!UICONTROL Filters] maken in Customer Journey Analytics
 
