@@ -3,19 +3,18 @@ title: Dimensiewaarden in gegevensweergaven opnemen of uitsluiten
 description: Met deze de configuratiefunctie van de Mening van Gegevens, kunt u waarden in afmetingen filtreren om het leven van uw analisten gemakkelijker te maken wanneer zij projecten in Customer Journey Analytics creëren. U zult me later bedanken (nadat uw analisten u hebben bedankt).
 feature: Gegevens
 topic: Beheer
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332906.jpg
 kt: 7588
-translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 2%
 
 ---
-
 
 # Dimensiewaarden in gegevensweergaven opnemen of uitsluiten
 
