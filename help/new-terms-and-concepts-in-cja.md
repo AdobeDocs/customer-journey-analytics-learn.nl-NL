@@ -1,23 +1,22 @@
 ---
 title: Nieuwe termen en concepten in Customer Journey Analytics
 description: In deze video bespreken we belangrijke termen en concepten in Adobe Customer Journey Analytics, hoe ze worden toegewezen aan termen en concepten in Adobe Analytics, en ook waar ze te zien zijn in de Customer Journey Analytics interface.
-feature: CJA Workspace Basics
+feature: Basisbeginselen van CJA-werkruimte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
-
 
 # Nieuwe termen en concepten in Customer Journey Analytics
 
