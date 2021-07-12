@@ -1,23 +1,22 @@
 ---
 title: Customer Journey Analytics aansluiten op gegevensbronnen in Platform
 description: Met Adobe Customer Journey Analytics (CJA) hebt u Analysis Workspace boven op gegevenssets uit Adobe Experience Platform, zodat u uw gegevens via verschillende kanalen kunt analyseren. In deze video wordt uitgelegd hoe u verbinding kunt maken tussen CJA en de gegevenssets van het Platform, inclusief het instellen van de verbinding om doorlopende gegevens vanuit het Platform te streamen naar CJA.
-feature: Connections
+feature: Verbindingen
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30140.jpg
 kt: 3954
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '158'
 ht-degree: 6%
 
 ---
-
 
 # Customer Journey Analytics aansluiten op gegevens [!UICONTROL Sources] in Platform
 
