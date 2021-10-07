@@ -2,10 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-translation-type: tm+mt
-source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
+source-git-commit: 022ef9cecbff62fa102fcefdadb34c720eaf581b
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---
@@ -37,6 +36,7 @@ ht-degree: 2%
 + [Inleiding tot filters](/help/introduction-to-filters-in-cja.md)
 + [Kanaalfilters maken](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ [Report Builder voor Customer Journey Analytics](/help/report-builder-for-customer-journey-analytics.md)
 + Blauwdrukken {#blueprints}
    + [Customer Journey Analytics vervagen](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
