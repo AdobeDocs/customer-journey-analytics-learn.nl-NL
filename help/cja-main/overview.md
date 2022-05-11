@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 4%
@@ -28,15 +28,15 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 
 ## Nieuwe functies
 
-* **[Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics (video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
+* **[Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
    *Meer tips over het opnieuw maken van Adobe Analytics-segmenten in Customer Journey Analytics*
 
-* **[Berekende waarden verplaatsen van Adobe Analytics naar Customer Journey Analytics (video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[Berekende waarden verplaatsen van Adobe Analytics naar Customer Journey Analytics (video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
    *Meer tips voor het opnieuw maken van je Adobe Analytics Berekende Metrics in Customer Journey Analytics*
 
-* **[Kanaalfilters maken (video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[Kanaalfilters maken (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
 
@@ -45,11 +45,11 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 <table>
 <tr>
   <td>
-    <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+    <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
       <img alt="Begrijpen hoe CJA Identiteit gebruikt" src="assets/30750.jpg" />
     </a>
     <div>
-      <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+      <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
     <strong>Begrijpen hoe Customer Journey Analytics identiteit gebruikt</strong>
     </a>
     </div>
@@ -58,11 +58,11 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
     <p>
   </td>
    <td>
-    <a href="/help/architecture-and-integrations-of-cja.md">
+    <a href="architecture/architecture-and-integrations-of-cja.md">
       <img alt="Architectuur en integratie van Customer Journey Analytics" src="assets/32483.jpg" />
     </a>
     <div>
-      <a href="/help/architecture-and-integrations-of-cja.md">
+      <a href="architecture/architecture-and-integrations-of-cja.md">
     <strong>Architectuur en integratie van Customer Journey Analytics</strong>
     </a>
     </div>
@@ -71,11 +71,11 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
     <p>
   </td>
   <td>
-    <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Kanaalkenmerk in Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Kanaalkenmerk in Customer Journey Analytics</strong>
     </a>
     </div>
