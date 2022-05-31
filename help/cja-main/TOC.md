@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,9 +52,9 @@ ht-degree: 4%
 + Dashboards (scorecards) {#dashboards}
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
    + [Behoorapparaten helpen toegang te krijgen tot mobiele scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
-   + Berekende standaarden {#calc-metrics}
-      + [Inleiding tot berekende meetwaarden in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-      + [Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
++ Berekende standaarden {#calc-metrics}
+   + [Inleiding tot berekende meetwaarden in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+   + [Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + Exporteren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder voor Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
