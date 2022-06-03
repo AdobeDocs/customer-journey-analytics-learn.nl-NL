@@ -8,16 +8,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Overzicht
+# Customer Journey Analytics-zelfstudies
 
-Welkom bij de [!DNL Customer Journey Analytics] Site Tutorials.  Deze zelfstudies samen met de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) biedt u een beter inzicht in hoe u Adobe Analytics kunt gebruiken om klanten met meerdere kanalen sneller dan ooit inzicht te geven in uw toepassingen.  Aan de slag,
+Welkom bij de [!DNL Customer Journey Analytics] Site voor zelfstudies.  Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) biedt u een beter inzicht in hoe u Adobe Analytics kunt gebruiken om klanten met meerdere kanalen sneller dan ooit inzicht te geven in uw toepassingen.  Aan de slag,
 
 * Zie de **&quot;Nieuwe functies&quot;** onderstaande sectie voor de meest recente goodies
 * **Personeelspictogrammen** benadrukt een aantal van onze favoriete inhoud

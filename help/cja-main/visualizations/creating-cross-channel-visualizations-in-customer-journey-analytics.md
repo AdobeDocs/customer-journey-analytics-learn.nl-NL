@@ -11,9 +11,9 @@ kt: 3961
 role: User
 level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ In deze video leert u hoe u met Customer Journey Analytics [!UICONTROL visualiza
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

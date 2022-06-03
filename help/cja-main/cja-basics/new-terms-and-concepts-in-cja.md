@@ -11,10 +11,10 @@ kt: 3960
 role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ In deze video bespreken we belangrijke termen en concepten in Customer Journey A
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

@@ -11,10 +11,10 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Deze video introduceert u [!UICONTROL filters] en de [!UICONTROL Filter Builder]
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

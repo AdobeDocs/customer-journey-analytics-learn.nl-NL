@@ -12,10 +12,10 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ In deze video vindt u tips voor het opnieuw maken van uw Adobe Analytics [!UICON
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
