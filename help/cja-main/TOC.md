@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
+source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '265'
 ht-degree: 4%
 
 ---
@@ -48,8 +48,11 @@ ht-degree: 4%
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Inleiding tot filters](components/filters/introduction-to-filters-in-cja.md)
+      + [Een snel filter maken](components/filters/create-a-quick-filter.md)
       + [Kanaalfilters maken](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + Annotaties {#annotations}
+      + [Een aantekening maken](components/create-an-annotation.md)
 + Dashboards (scorecards) {#dashboards}
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
    + [Behoorapparaten helpen toegang te krijgen tot mobiele scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
