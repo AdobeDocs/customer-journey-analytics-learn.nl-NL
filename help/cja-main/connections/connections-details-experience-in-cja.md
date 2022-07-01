@@ -1,6 +1,6 @@
 ---
 title: Connections Details Experience in CJA
-description: Onthaal aan de Ervaring van de Details van Verbindingen, die u zal toestaan om de status van de datasets van uw verbinding, evenals het innameproces te controleren.
+description: Welkom bij de Connections Details Experience, waarmee u de status van de gegevenssets van uw verbinding en het innameproces kunt controleren.
 feature: Connections
 topic: Administration
 role: Admin
@@ -8,7 +8,7 @@ level: Beginner
 kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Connections Details Experience in CJA
 
-Onthaal aan de Ervaring van de Details van Verbindingen die u zal toestaan om de status van de datasets van uw verbinding en van het opnameproces te controleren.
+Welkom bij de Connections Details Experience waarmee u de status van de gegevenssets van uw verbinding en van het innameproces kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
 
