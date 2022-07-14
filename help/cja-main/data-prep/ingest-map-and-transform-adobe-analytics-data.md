@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ In deze video laten we zien hoe we functies voor gegevenspresentatie kunnen gebr
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Zie voor meer informatie de [Adobe Analytics-bronconnectordocumentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=en) en de [Documentatie over prepingfuncties voor gegevens](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html%3Flang%3Dsv).
+Zie voor meer informatie de [Adobe Analytics-bronconnectordocumentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) en de [Documentatie over prepingfuncties voor gegevens](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
