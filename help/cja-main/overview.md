@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -26,6 +26,8 @@ Welkom bij de [!DNL Customer Journey Analytics] Site voor zelfstudies.  Deze zel
 
 Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens in Analysis Workspace verbindt met een gemeenschappelijke klant-id, zodat u uiteindelijk kunt toewijzen, segmenteren, doorlopen, fallout enzovoort. voor de gehele gegevensset van de klant.
 
+<div id="whats-new-section">
+
 ## Nieuwe functies
 
 * **[Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
@@ -39,6 +41,10 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 * **[Kanaalfilters maken (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Aanbevolen door medewerkers
 
@@ -85,3 +91,4 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
   </td>
 </tr>
 </table>
+</div>
