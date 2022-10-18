@@ -1,6 +1,6 @@
 ---
 title: Publiceren door het publiek voor Customer Journey Analytics
-description: Met Customer Journey Analytics kunt u een publiek publiceren dat u ontdekt in uw analyse naar het Adobe Experience Platform Real-Time klantprofiel voor segmentactivering met Adobe Real-time Customer Data Platform, of voor meer persoonlijke trajectorchestratie met Adobe Journey Optimizer. (Moet tussen 60 en 160 tekens lang zijn, maar is 297 tekens)
+description: Leer hoe u publiek kunt publiceren van Customer Journey Analytics naar het Real-Time Klantprofiel van Adobe Experience Platform voor segmentactivering of voor meer persoonlijke reisorchestratie.
 feature: Components
 topic: Integrations
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
-source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
+source-git-commit: 263c50d8cda5c0b836bb50ec5eb5acbc99d8e989
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Publiek publiceren voor Customer Journey Analytics
 
-Met Customer Journey Analytics kunt u een publiek publiceren dat u ontdekt in uw analyse naar het Adobe Experience Platform Real-Time klantprofiel voor segmentactivering met Adobe Real-time Customer Data Platform, of voor meer persoonlijke trajectorchestratie met Adobe Journey Optimizer.
+Leer hoe u publiek kunt publiceren van Customer Journey Analytics naar het Real-Time Klantprofiel van Adobe Experience Platform voor segmentactivering of voor meer persoonlijke reisorchestratie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
