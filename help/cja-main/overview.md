@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
+source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -41,6 +41,7 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 * **[Kanaalfilters maken (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
+
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -52,7 +53,7 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 
 <div id="staff-picks-section">
 
-## Aanbevolen door medewerkers
+## Personeelsselectie
 
 <table>
 <tr>
