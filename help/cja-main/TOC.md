@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 4%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 4%
 + Exporteren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder voor Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ Gebruik hoofdletters {#use-cases}
+   + Gebruiksscenario&#39;s voor gegevensweergaven {#data-views-use-cases}
+      + [Rapportage voor eerste en terugkerende sessies](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Ondersteuning voor datumvelden voor hefboomwerking](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blauwdrukken {#blueprints}
    + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
