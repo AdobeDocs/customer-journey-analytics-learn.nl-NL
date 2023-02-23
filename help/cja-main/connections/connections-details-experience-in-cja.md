@@ -1,26 +1,23 @@
 ---
-title: Connections Details Experience in CJA
-description: Welkom bij de Connections Details Experience, waarmee u de status van de gegevenssets van uw verbinding en het innameproces kunt controleren.
+title: Verbindingsinstellingen weergeven, problemen oplossen en wijzigen
+description: De Manager van Verbindingen staat u toe om het statuut van de datasets van uw verbinding te controleren ingang. Deze interface informeert u ook wanneer er gegevens beschikbaar zijn om de analyse in Workspace te starten.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Connections Details Experience in CJA
+# Verbindingsinstellingen weergeven, problemen oplossen en wijzigen
 
-Welkom bij de Connections Details Experience waarmee u de status van de gegevenssets van uw verbinding en van het innameproces kunt controleren.
+De Manager van Verbindingen staat u toe om het statuut van de datasets van uw verbinding te controleren ingang. Deze interface informeert u ook wanneer er gegevens beschikbaar zijn om de analyse in Workspace te starten. Leer hoe te om gegevensdiscrepanties wegens misconfiguration te identificeren, de data van de gegevensimport te beheren, en datasets te verwijderen uit verbindingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Deze statuscontrole laat u weten wanneer uw gegevens beschikbaar zijn zodat u naar Analysis Workspace kunt gaan en de analyse kunt starten. Bovendien zal het u toestaan om het even welke gegevensdiscrepanties als gevolg van verkeerde configuratie te identificeren. Zijn er overgeslagen rijen of geschrapte rijen? Zo ja, hoeveel hiervan zijn overgeslagen of verwijderd en wanneer? Hebt u verbindingen verkeerd gevormd en overgeslagen gegevens in CJA veroorzaakt?
-
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html).

@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 4%
+source-wordcount: '299'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [Overzicht van Customer Journey Analytics](overview.md)
 + Basisbeginselen van Customer Journey Analytics {#cja-basics}
-   + [Customer Journey Analytics begrijpen](cja-basics/understanding-customer-journey-analytics.md)
+   + [Inzichten in Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nieuwe termen en concepten](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics-landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
 + Architectuur {#architecture}
@@ -23,9 +23,8 @@ ht-degree: 4%
    + [Werken met gegevens](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics-gegevens samenstellen, toewijzen en transformeren](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Verbindingen {#connections}
-   + [Verbinding maken met gegevensbronnen in Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [Ervaring met verbindingsdetails in CJA](connections/connections-details-experience-in-cja.md)
-   + [Verbindingen maken en bewerken](connections/cja-connections-creation-and-edit-experience.md)
+   + [Verbinding maken met gegevensbronnen van Experience Platforms](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Verbindingsinstellingen weergeven, problemen oplossen en wijzigen](connections/connections-details-experience-in-cja.md)
    + [Oude gegevens toevoegen aan een bestaande verbinding](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Identificatie van bezoekers {#visitor-id}
    + [Begrijpen hoe CJA identiteit gebruikt](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
