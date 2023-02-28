@@ -1,6 +1,6 @@
 ---
 title: Werken met gegevens
-description: Leer hoe datasetschema's in variabelen in Adobe Customer Journey Analytics worden vertaald, evenals hoe CJA zeer hoge kardinaliteit behandelt.
+description: Leer hoe gegevenssetschema's in variabelen in Adobe Customer Journey Analytics worden vertaald, evenals hoe CJA zeer hoge kardinaliteit behandelt.
 feature: Connections
 topics: null
 activity: understand
@@ -13,8 +13,8 @@ level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 30%
 
 ---
 
