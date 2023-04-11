@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 87e4a545a36eb09dc35168bf8784d66b6a56e326
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '310'
+ht-degree: 7%
 
 ---
 
@@ -42,6 +42,9 @@ ht-degree: 0%
    + [Dimension in gegevensweergaven binden](data-views/binding-dimensions-in-data-views.md)
    + [Geen waardeopties configureren in gegevensweergaven](data-views/configure-no-value-options-in-data-views.md)
    + [Attributie-instellingen in gegevensweergaven](data-views/attribution-settings-in-data-views.md)
++ Analysis Workspace {#analysis-workspace}
+   + Werkruimteproject {#workspace-projects}
+      + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + Visualisaties {#visualizations}
    + [Kanaaloverschrijdende visualisaties maken](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Kanaaltoewijzing](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -76,3 +79,4 @@ ht-degree: 0%
    + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
+
