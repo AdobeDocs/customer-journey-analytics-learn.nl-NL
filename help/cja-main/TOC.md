@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '314'
 ht-degree: 7%
 
 ---
@@ -45,6 +45,7 @@ ht-degree: 7%
 + Analysis Workspace {#analysis-workspace}
    + Werkruimteproject {#workspace-projects}
       + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualisaties {#visualizations}
    + [Kanaaloverschrijdende visualisaties maken](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Kanaaltoewijzing](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 7%
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
