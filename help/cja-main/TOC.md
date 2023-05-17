@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 5%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    + [Geen waardeopties configureren in gegevensweergaven](data-views/configure-no-value-options-in-data-views.md)
    + [Attributie-instellingen in gegevensweergaven](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Werkruimteproject {#workspace-projects}
+   + Werkruimteprojecten {#workspace-projects}
       + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualisaties {#visualizations}
@@ -62,6 +62,8 @@ ht-degree: 0%
       + [Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Soorten publiek {#audiences}
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
+   + Gegevenswoordenboek {#data-dictionary}
+      + [Gegevenswoordenboek gebruiken](components/data-dictionary/use-data-dictionary.md)
 + Deelvensters {#panels}
    + [Het volgende en vorige deelvenster met items configureren](panels/configure-next-previous-item-panel.md)
    + [Het deelvenster voor experimenten gebruiken](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 0%
 + Gebruik hoofdletters {#use-cases}
    + Gebruiksscenario&#39;s voor gegevensweergaven {#data-views-use-cases}
       + [Rapportage voor eerste en terugkerende sessies](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Ondersteuning voor datumvelden voor hefboomwerking](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Datumveldondersteuning gebruiken](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blauwdrukken {#blueprints}
    + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
+   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
