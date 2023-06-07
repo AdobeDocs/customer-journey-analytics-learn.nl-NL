@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
+source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '341'
 ht-degree: 5%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 5%
    + [Basisconfiguratie voor gegevensweergaven](data-views/basic-configuration-for-data-views.md)
    + [Componentinstellingen configureren in gegevensweergaven](data-views/configuring-component-settings-in-data-views.md)
    + [Instellingen voor componenttypen in gegevensweergaven](data-views/component-type-settings-in-data-views.md)
+   + [afgeleide velden maken](data-views/derived-fields-in-cja.md)
    + [Metrische gegevens opmaken in gegevensweergaven](data-views/formatting-metrics-in-data-views.md)
    + [Componentinstellingen voor subtekenreeksen configureren](data-views/configure-substring-component-settings.md)
    + [Metrische waarden in gegevensweergaven opnemen of uitsluiten](data-views/include-or-exclude-metric-values-in-data-views.md)
