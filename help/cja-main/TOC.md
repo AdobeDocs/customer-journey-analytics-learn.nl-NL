@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 5%
+source-wordcount: '381'
+ht-degree: 4%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 5%
 + Visualisaties {#visualizations}
    + [Kanaaloverschrijdende visualisaties maken](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Kanaaltoewijzing](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Intelligente bijschriften](visualizations/intelligent-captions.md)
+   + [Intelligente bijschriften maken](visualizations/intelligent-captions.md)
+   + [Gebiedsvisualisatie toevoegen](visualizations/add-area-visualizations.md)
+   + [Streepjesvisualisatie toevoegen](visualizations/add-bar-visualizations.md)
+   + [Lijstgrafieken voor opsommingstekens toevoegen](visualizations/add-bullet-graph-visualizations.md)
+   + [Donut-visualisaties toevoegen](visualizations/add-donut-visualizations.md)
+   + [Lijnvisualisatie toevoegen](visualizations/add-line-visualizations.md)
+   + [De kaartvisualisatie gebruiken](visualizations/use-map-visualization.md)
+   + [Samenvattingsvisualisaties gebruiken](visualizations/use-summary-visualizations.md)
+   + [Tekstvisualisatie toevoegen](visualizations/add-text-visualizations.md)
+   + [De scatterplot-visualisatie gebruiken](visualizations/use-scatterplot-visualizations.md)
+   + [De visualisatie van de boomstructuur toevoegen](visualizations/add-treemap-visualizations.md)
+   + [Volledig gestapelde visualisaties maken](visualizations/create-stacked-visualizations.md)
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 5%
    + [Een aantekening maken](components/create-an-annotation.md)
 + Dashboards (scorecards) {#dashboards}
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
-   + [Behoorapparaten helpen toegang te krijgen tot mobiele scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Assist managers met mobiele scorecard toegang](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exporteren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder voor Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 5%
       + [Datumveldondersteuning gebruiken](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blauwdrukken {#blueprints}
    + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
