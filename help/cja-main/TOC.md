@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '388'
 ht-degree: 4%
 
 ---
@@ -48,23 +48,30 @@ ht-degree: 4%
    + Werkruimteprojecten {#workspace-projects}
       + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + Deelvensters {#panels}
+      + [Het volgende en vorige deelvenster met items configureren](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Het deelvenster voor experimenten gebruiken](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + Visualisaties {#visualizations}
+      + [Kanaaloverschrijdende visualisaties maken](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [Kanaaltoewijzing](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [Intelligente bijschriften maken](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Gebiedsvisualisatie toevoegen](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Streepjesvisualisatie toevoegen](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Lijstgrafieken voor opsommingstekens toevoegen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [Donut-visualisaties toevoegen](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Lijnvisualisatie toevoegen](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [De kaartvisualisatie gebruiken](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Samenvattingsvisualisaties gebruiken](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Tekstvisualisatie toevoegen](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [De scatterplot-visualisatie gebruiken](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [De visualisatie van de boomstructuur toevoegen](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Volledig gestapelde visualisaties maken](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + Annotaties {#annotations}
+      + [Een aantekening maken](analysis-workspace/annotations/create-an-annotation.md)
    + Curven en delen {#curate-and-share}
       + [Delen met iedereen in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ Visualisaties {#visualizations}
-   + [Kanaaloverschrijdende visualisaties maken](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [Kanaaltoewijzing](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Intelligente bijschriften maken](visualizations/intelligent-captions.md)
-   + [Gebiedsvisualisatie toevoegen](visualizations/add-area-visualizations.md)
-   + [Streepjesvisualisatie toevoegen](visualizations/add-bar-visualizations.md)
-   + [Lijstgrafieken voor opsommingstekens toevoegen](visualizations/add-bullet-graph-visualizations.md)
-   + [Donut-visualisaties toevoegen](visualizations/add-donut-visualizations.md)
-   + [Lijnvisualisatie toevoegen](visualizations/add-line-visualizations.md)
-   + [De kaartvisualisatie gebruiken](visualizations/use-map-visualization.md)
-   + [Samenvattingsvisualisaties gebruiken](visualizations/use-summary-visualizations.md)
-   + [Tekstvisualisatie toevoegen](visualizations/add-text-visualizations.md)
-   + [De scatterplot-visualisatie gebruiken](visualizations/use-scatterplot-visualizations.md)
-   + [De visualisatie van de boomstructuur toevoegen](visualizations/add-treemap-visualizations.md)
-   + [Volledig gestapelde visualisaties maken](visualizations/create-stacked-visualizations.md)
+   + Tips en trucs {#tips-and-tricks}
+      + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 4%
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
       + [Gegevenswoordenboek gebruiken](components/data-dictionary/use-data-dictionary.md)
-+ Deelvensters {#panels}
-   + [Het volgende en vorige deelvenster met items configureren](panels/configure-next-previous-item-panel.md)
-   + [Het deelvenster voor experimenten gebruiken](panels/use-the-experimentation-panel.md)
-+ Annotaties {#annotations}
-   + [Een aantekening maken](components/create-an-annotation.md)
 + Dashboards (scorecards) {#dashboards}
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
    + [Assist managers met mobiele scorecard toegang](dashboards/assist-executives-to-access-mobile-scorecards.md)

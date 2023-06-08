@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,16 +31,13 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
 ## Nieuwe functies
 
 * **[Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *Meer tips over het opnieuw maken van Adobe Analytics-segmenten in Customer Journey Analytics*
+  *Meer tips over het opnieuw maken van Adobe Analytics-segmenten in Customer Journey Analytics*
 
 * **[Berekende waarden verplaatsen van Adobe Analytics naar Customer Journey Analytics (video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Meer tips voor het opnieuw maken van je Adobe Analytics Berekende Metrics in Customer Journey Analytics*
+  *Meer tips voor het opnieuw maken van je Adobe Analytics Berekende Metrics in Customer Journey Analytics*
 
 * **[Kanaalfilters maken (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
+  *Filters maken in Customer Journey Analytics die meer dan één gegevensbron en meer dan één kanaal gebruiken*
 
 </div>
 
@@ -84,11 +81,11 @@ Met Customer Journey Analytics kunt u bepalen hoe u online en offline gegevens i
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Kanaalkenmerk in Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Kanaalkenmerk in Customer Journey Analytics</strong>
     </a>
     </div>
