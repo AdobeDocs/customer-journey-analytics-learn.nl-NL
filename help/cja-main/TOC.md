@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
+source-git-commit: 4a08586cb92a27a768b7879a148232e90a272254
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,8 @@ ht-degree: 4%
       + [Delen met iedereen in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tips en trucs {#tips-and-tricks}
       + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
++ Analyse met instructies {#guided-analysis}
+   + [Overzicht van Adobe Product Analytics](guided-analysis/adobe-product-analytics-overview.md)
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
