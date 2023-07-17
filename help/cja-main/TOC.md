@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '434'
 ht-degree: 4%
 
 ---
@@ -75,6 +75,18 @@ ht-degree: 4%
       + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Overzicht van Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
++ Analyse met instructies {#guided-analysis}
+   + Gevolgen {#impact}
+      + [Effectanalyse vrijgeven](guided-analysis/impact/release-impact-analysis.md)
+      + [Effectanalyse eerste gebruik](guided-analysis/impact/first-use-impact-analysis.md)
+   + Trechter {#funnel}
+      + [Trechter-wrijvingsanalyse](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [Tendenanalyse van kabelconversie](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + Groei van gebruikers {#user-growth}
+      + [Groeianalyse van actieve gebruikers](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Analyse van de groei van gebruikers](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + Trends {#trends}
+      + [Analyse van trends gebruiken](guided-analysis/trends/usage-trends-analysis.md)
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
