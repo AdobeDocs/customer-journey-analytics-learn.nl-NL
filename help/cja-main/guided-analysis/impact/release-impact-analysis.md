@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13675
 thumbnail: 3421665.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Effectanalyse vrijgeven
 
-Leer hoe u de **releaseweergave** in Adobe Product Analytics, dat een vergelijking toont van de wijze waarop de belangrijkste indicatoren vóór en na een bepaalde datum werden uitgevoerd.
+Leer hoe u de **releaseweergave** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), die een vergelijking laat zien van de wijze waarop sleutelindicatoren voor en na een bepaalde datum werden uitgevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 

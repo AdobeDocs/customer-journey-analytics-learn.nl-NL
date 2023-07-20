@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Groeianalyse van actieve gebruikers
 
-Meer informatie over **actieve weergave** in Adobe Product Analytics geeft het inzicht in de groei van gebruikers gedurende een bepaalde periode, opgesplitst naar nieuwe, herhaalde, geretourneerde en slapende gebruikers.
+Meer informatie over **actieve weergave** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) biedt inzicht in de groei van gebruikers gedurende een specifieke periode, opgesplitst naar nieuwe, herhaalde, geretourneerde en stille gebruikers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 

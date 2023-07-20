@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13672
 thumbnail: 3421662.jpeg
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Tendenanalyse van kabelconversie
 
-Leer hoe u de **weergave van trends converteren** in Adobe Product Analytics, dat veranderingen in trechter omzettingspercentages in tijd volgt.
+Leer hoe u de **weergave van trends converteren** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), waarin wijzigingen in de conversiesnelheden van trechter in de loop der tijd worden bijgehouden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
