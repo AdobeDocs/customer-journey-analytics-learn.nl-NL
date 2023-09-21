@@ -2,22 +2,22 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '440'
 ht-degree: 4%
 
 ---
 
 
-# Customer Journey Analytics-zelfstudies {#tutorials}
+# Zelfstudies voor Customers Journey Analytics {#tutorials}
 
 + [Overzicht van Customer Journey Analytics](overview.md)
-+ Basisbeginselen van Customer Journey Analytics {#cja-basics}
++ Grondbeginselen van Customers Journey Analytics {#cja-basics}
    + [Wat is Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Inleiding tot Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nieuwe termen en concepten](cja-basics/new-terms-and-concepts-in-cja.md)
-   + [Customer Journey Analytics-landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
+   + [Customer Journey Analytics landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
 + Architectuur {#architecture}
    + [Architectuur en integratie](architecture/architecture-and-integrations-of-cja.md)
 + Voorbereiding en planning van gegevens {#data-prep}
@@ -36,13 +36,13 @@ ht-degree: 4%
    + [Basisconfiguratie voor gegevensweergaven](data-views/basic-configuration-for-data-views.md)
    + [Componentinstellingen configureren in gegevensweergaven](data-views/configuring-component-settings-in-data-views.md)
    + [Instellingen voor componenttypen in gegevensweergaven](data-views/component-type-settings-in-data-views.md)
-   + [afgeleide velden maken](data-views/derived-fields-in-cja.md)
+   + [Afgeleide velden maken](data-views/derived-fields-in-cja.md)
    + [Metrische gegevens opmaken in gegevensweergaven](data-views/formatting-metrics-in-data-views.md)
    + [Componentinstellingen voor subtekenreeksen configureren](data-views/configure-substring-component-settings.md)
    + [Metrische waarden in gegevensweergaven opnemen of uitsluiten](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Waardeemmers maken in gegevensweergaven voor analyse](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Dimensiewaarden in gegevensweergaven opnemen of uitsluiten](data-views/include-or-exclude-dimension-values-in-data-views.md)
-   + [Dimension in gegevensweergaven binden](data-views/binding-dimensions-in-data-views.md)
+   + [Dimensionen in gegevensweergaven binden](data-views/binding-dimensions-in-data-views.md)
    + [Geen waardeopties configureren in gegevensweergaven](data-views/configure-no-value-options-in-data-views.md)
    + [Attributie-instellingen in gegevensweergaven](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
@@ -78,13 +78,13 @@ ht-degree: 4%
 + Analyse met instructies {#guided-analysis}
    + Gevolgen {#impact}
       + [Effectanalyse vrijgeven](guided-analysis/impact/release-impact-analysis.md)
-      + [Effectanalyse eerste gebruik](guided-analysis/impact/first-use-impact-analysis.md)
+      + [Effectanalyse voor eerste gebruik](guided-analysis/impact/first-use-impact-analysis.md)
    + Trechter {#funnel}
       + [Trechter-wrijvingsanalyse](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Tendenanalyse van kabelconversie](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + Groei van gebruikers {#user-growth}
       + [Groeianalyse van actieve gebruikers](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Analyse van de groei van gebruikers](guided-analysis/user-growth/net-user-growth-analysis.md)
+      + [Analyse van de groei van de gebruiker](guided-analysis/user-growth/net-user-growth-analysis.md)
    + Trends {#trends}
       + [Analyse van trends gebruiken](guided-analysis/trends/usage-trends-analysis.md)
 + Onderdelen {#components}
@@ -93,9 +93,9 @@ ht-degree: 4%
       + [Een snel filter maken](components/filters/create-a-quick-filter.md)
       + [Kanaalfilters maken](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Filters gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
-      + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+      + [Adobe Analytics-segmenten naar Customer Journey Analytics verplaatsen](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Berekende standaarden {#calc-metrics}
-      + [Inleiding tot berekende meetwaarden in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+      + [Inleiding tot berekende metriek in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Soorten publiek {#audiences}
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
@@ -107,11 +107,13 @@ ht-degree: 4%
 + Exporteren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder voor Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-      + [Customer Journey Analytics-werkboeken plannen met Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
+      + [De werkboeken van de Customer Journey Analytics van het programma gebruikend Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Gebruik hoofdletters {#use-cases}
    + Gebruiksscenario&#39;s voor gegevensweergaven {#data-views-use-cases}
-      + [Rapportage voor eerste en terugkerende sessies](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Eerste en retoursessies die rapporteren](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Datumveldondersteuning gebruiken](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + Complexe gegevens {#complex-data}
+      + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
    + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
