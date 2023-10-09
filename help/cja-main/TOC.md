@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d06a420753a9a5bece5d075c84a1be5fb0608494
+source-git-commit: 0a6b0d64409beed4ea18fadb29006ad19c5548ec
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '442'
 ht-degree: 4%
 
 ---
@@ -45,6 +45,7 @@ ht-degree: 4%
    + [Dimensionen in gegevensweergaven binden](data-views/binding-dimensions-in-data-views.md)
    + [Geen waardeopties configureren in gegevensweergaven](data-views/configure-no-value-options-in-data-views.md)
    + [Attributie-instellingen in gegevensweergaven](data-views/attribution-settings-in-data-views.md)
+   + [Omrekening in valuta](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
    + Werkruimteprojecten {#workspace-projects}
       + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
