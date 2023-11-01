@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0a6b0d64409beed4ea18fadb29006ad19c5548ec
+source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -106,6 +106,7 @@ ht-degree: 4%
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
    + [Assist managers met mobiele scorecard toegang](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exporteren {#exporting}
+   + [Volledige tabelexport](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder voor Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [De werkboeken van de Customer Journey Analytics van het programma gebruikend Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
