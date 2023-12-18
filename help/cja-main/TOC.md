@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 4%
+source-wordcount: '432'
+ht-degree: 2%
 
 ---
 
@@ -28,7 +28,8 @@ ht-degree: 4%
    + [Verbinding maken met gegevensbronnen van Experience Platforms](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Verbindingsinstellingen weergeven, problemen oplossen en wijzigen](connections/connections-details-experience-in-cja.md)
    + [Nieuwe gegevens toevoegen aan een verbinding](connections/add-past-data-to-an-existing-connection-in-cja.md)
-+ Identificatie van bezoekers {#visitor-id}
+   + [CJA zoekt naar opzoekgegevens en profielgegevens](connections/cja-lookup-data.md)
++ Identificatie bezoeker {#visitor-id}
    + [Begrijpen hoe CJA identiteit gebruikt](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Een ontbrekende persoon-id configureren](visitor-id/configure-missing-person-id.md)
 + Gegevensweergaven {#data-views}
@@ -48,7 +49,7 @@ ht-degree: 4%
    + [Omrekening in valuta](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
    + Werkruimteprojecten {#workspace-projects}
-      + [Overzicht van Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [Analysis Workspace-overzicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
    + Deelvensters {#panels}
       + [Het volgende en vorige deelvenster met items configureren](analysis-workspace/panels/configure-next-previous-item-panel.md)
@@ -95,7 +96,7 @@ ht-degree: 4%
       + [Kanaalfilters maken](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Filters gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics-segmenten naar Customer Journey Analytics verplaatsen](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + Berekende standaarden {#calc-metrics}
+   + Berekende cijfers {#calc-metrics}
       + [Inleiding tot berekende metriek in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Soorten publiek {#audiences}
