@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
+source-git-commit: 3e1d99084a2fe20dae9fad365995d232960429e8
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '457'
 ht-degree: 2%
 
 ---
@@ -81,6 +81,8 @@ ht-degree: 2%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Overzicht van Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse met instructies {#guided-analysis}
+   + Eigenschappenmatrix {#feature-matrix}
+      + [Featur-betrokkenheidsanalyse](guided-analysis/feature-matrix/feature-engagement.md)
    + Trechter {#funnel}
       + [Trechter-wrijvingsanalyse](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Tendenanalyse van kabelconversie](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
