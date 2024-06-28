@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -40,6 +40,8 @@ ht-degree: 2%
    + [Componentinstellingen configureren in gegevensweergaven](data-views/configuring-component-settings-in-data-views.md)
    + [Instellingen voor componenttypen in gegevensweergaven](data-views/component-type-settings-in-data-views.md)
    + [Afgeleide velden maken](data-views/derived-fields-in-cja.md)
+   + [De functie Math gebruiken in afgeleide velden](data-views/use-the-math-function-in-derived-fields.md)
+   + [De functie Volgende of Vorige gebruiken in afgeleide velden](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Metrische gegevens opmaken in gegevensweergaven](data-views/formatting-metrics-in-data-views.md)
    + [Componentinstellingen voor subtekenreeksen configureren](data-views/configure-substring-component-settings.md)
    + [Metrische waarden in gegevensweergaven opnemen of uitsluiten](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -50,7 +52,7 @@ ht-degree: 2%
    + [Attributie-instellingen in gegevensweergaven](data-views/attribution-settings-in-data-views.md)
    + [Omrekening in valuta](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Werkruimteprojecten {#workspace-projects}
+   + Workspace-projecten {#workspace-projects}
       + [Analysis Workspace-overzicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
    + Deelvensters {#panels}
@@ -130,6 +132,6 @@ ht-degree: 2%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
