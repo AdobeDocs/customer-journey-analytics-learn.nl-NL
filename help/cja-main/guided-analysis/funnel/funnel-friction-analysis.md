@@ -1,6 +1,6 @@
 ---
 title: Trechter-wrijvingsanalyse
-description: Leer hoe u de wrijvingsweergave van de trechter in Adobe Product Analytics kunt gebruiken. Deze weergave biedt een visuele weergave van een kritieke gebruikersreis in uw product en helpt u te bepalen waar wrijving voorkomt.
+description: Leer hoe u de wrijvingsweergave van de trechter in de Customer Journey Analytics kunt gebruiken. Deze weergave biedt een visuele weergave van een kritieke gebruikersreis in uw product en helpt u te bepalen waar wrijving voorkomt.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Trechter-wrijvingsanalyse
 
-Leer hoe te om de **mening van de kanaalwrijving** in [ Adobe Product Analytics ](../../adobe-product-analytics/adobe-product-analytics-overview.md) te gebruiken, die een visuele vertegenwoordiging van een kritieke gebruikersreis in uw product verstrekt en helpt u bepalen waar er wrijving in het is.
+Leer hoe te om de **mening van de kanaalwrijving** in Customer Journey Analytics te gebruiken, die een visuele vertegenwoordiging van een kritieke gebruikersreis in uw product verstrekt en helpt u bepalen waar er wrijving in het is.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Groeianalyse van actieve gebruikers
-description: Leer hoe de Actieve mening in Adobe Product Analytics inzichten over de groei van gebruikers over een specifieke periode verstrekt, die door nieuwe, herhalende, terugkeer, en slapende gebruikers wordt verdeeld.
+description: Leer hoe de Actieve mening in Customer Journey Analytics inzichten over de groei van gebruikers over een specifieke periode verstrekt, die door nieuwe, herhalende, terugkeer, en slapende gebruikers wordt verdeeld.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,18 +8,18 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: a550bffe-de6c-4780-8617-c68226257258
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-
 # Groeianalyse van actieve gebruikers
 
-Meer informatie over **actieve weergave** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) biedt inzicht in de groei van gebruikers gedurende een specifieke periode, opgesplitst naar nieuwe, herhaalde, geretourneerde en stille gebruikers.
+Leer hoe de **actieve mening** in Customer Journey Analytics inzichten rond de groei van gebruikers over een specifieke periode verstrekt, die door nieuwe, herhaal, terugkeer, en slapende gebruikers wordt gespleten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html).
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html) te bezoeken.

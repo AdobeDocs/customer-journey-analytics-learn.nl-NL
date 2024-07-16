@@ -1,6 +1,6 @@
 ---
-title: Effectanalyse eerste gebruik
-description: Leer hoe u de weergave voor eerste gebruik in Adobe Product Analytics gebruikt. Deze toont een vergelijking van hoe belangrijke indicatoren die voor en na een gebruiker zijn uitgevoerd, voor het eerst een productfunctie gebruiken.
+title: Effectanalyse voor eerste gebruik
+description: Leer hoe u de weergave voor eerste gebruik in de Customer Journey Analytics gebruikt. Deze toont een vergelijking van de manier waarop toetsindicatoren voor en na een gebruiker een productfunctie voor het eerst gebruiken.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,18 +8,18 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
+# Effectanalyse voor eerste gebruik
 
-# Effectanalyse eerste gebruik
-
-Leer hoe u de **weergave voor eerste gebruik** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), die een vergelijking toont van hoe de belangrijkste indicatoren die vóór en na een gebruiker presteerden een producteigenschap voor het eerst gebruiken.
+Leer hoe te om de **eerste gebruiksmening** in Customer Journey Analytics te gebruiken, die een vergelijking van toont hoe zeer belangrijke indicatoren vóór en na een gebruiker een producteigenschap voor het eerst worden uitgevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html).
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html) te bezoeken.
