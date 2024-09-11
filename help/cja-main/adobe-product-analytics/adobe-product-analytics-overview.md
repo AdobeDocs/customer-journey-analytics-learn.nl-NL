@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
+exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
+source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van Adobe Product Analytics
 
@@ -22,7 +22,7 @@ Adobe Product Analytics stelt productteams in staat zelf gegevens en inzichten o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
 
-Met Adobe Product Analytics kunnen teams:
+Met behulp van Adobe Product Analytics kunnen teams:
 
 * [Begrijp patronen in gebruikersbetrokkenheid in tijd](../guided-analysis/trends/usage-trends-analysis.md)
 * [De groei en het behoud van de gebruikersbasis van het product volgen](../guided-analysis/user-growth/active-user-growth-analysis.md)
@@ -31,6 +31,4 @@ Met Adobe Product Analytics kunnen teams:
 * Ontdek betekenisvolle segmenten van gebruikers om zich gedurende hun hele levenslange reis met het product te engageren en te voeden
 * Verbinding maken met Analysis Workspace voor uitgebreidere analyse en samenwerking met analisten
 
-Adobe Product Analytics is een betaalde aanvulling op Customer Journey Analytics. Neem contact op met het accountteam van uw Adobe als uw organisatie deze functie wil gebruiken.
-
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html).
+Voor extra informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/overview) te bezoeken.
