@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 2%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Overzicht van Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse met instructies {#guided-analysis}
-   + Matrix met functies {#feature-matrix}
-      + [Evaluatie van de betrokkenheid van functies](guided-analysis/feature-matrix/feature-engagement.md)
-   + Trechter {#funnel}
-      + [ de analyse van de frictie van de Trechter ](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [Tendenanalyse van kabelconversie](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + Effect {#impact}
-      + [Effectanalyse vrijgeven](guided-analysis/impact/release-impact-analysis.md)
-      + [Effectanalyse voor eerste gebruik](guided-analysis/impact/first-use-impact-analysis.md)
-   + Bewaren {#retention}
-      + [Analyse van retentietarieven](guided-analysis/retention/retention-rates-analysis.md)
-   + Trends {#trends}
-      + [Analyse van frequentietrends](guided-analysis/trends/frequency-trends-analysis.md)
-      + [Analyse van trends gebruiken](guided-analysis/trends/usage-trends-analysis.md)
-   + Gebruikersstroom {#user-stream}
-      + [ analyse van de de stroomchronologie van de Gebruiker ](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + Groei van gebruikers {#user-growth}
-      + [Groeianalyse van actieve gebruikers](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [ Netto analyse van de gebruikerstoename ](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [Actieve groei](guided-analysis/active-growth.md)
+   + [Conversietrends](guided-analysis/conversion-trends.md)
+   + [Betrokkenheid](guided-analysis/engagement.md)
+   + [Effect voor eerste gebruik](guided-analysis/first-use-impact.md)
+   + [Frequentie](guided-analysis/frequency.md)
+   + [ Trechter ](guided-analysis/funnel.md)
+   + [ Netto groei ](guided-analysis/net-growth.md)
+   + [Geen effect](guided-analysis/release-impact.md)
+   + [Bewaren](guided-analysis/retention.md)
+   + [ Chronologie ](guided-analysis/timeline.md)
+   + [Trends](guided-analysis/trends.md)
 + Onderdelen {#components}
    + Filters (segmentatie) {#filters}
       + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
