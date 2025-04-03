@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 2%
    + [Overzicht van stitching](visitor-id/overview-of-stitching.md)
    + [Overzicht van op grafieken gebaseerde stitching](visitor-id/graph-based-stitching-overview.md)
 + Gegevensweergaven {#data-views}
-   + [Overzicht van het vormen van gegevensmeningen voor CJA](data-views/overview-of-configuring-data-views-for-cja.md)
+   + [Overzicht van het configureren van gegevensweergaven voor CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Basisconfiguratie voor gegevensweergaven](data-views/basic-configuration-for-data-views.md)
    + [Componentinstellingen configureren in gegevensweergaven](data-views/configuring-component-settings-in-data-views.md)
    + [Instellingen voor componenttypen in gegevensweergaven](data-views/component-type-settings-in-data-views.md)
@@ -112,6 +112,9 @@ ht-degree: 2%
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
       + [ Woordenboek van Gegevens van het Gebruik ](components/data-dictionary/use-data-dictionary.md)
++ Inhoud analyseren {#content-analytics}
+   + [Inleiding](content-analytics/introduction-to-content-analytics.md)
+   + [Hoe werkt het](content-analytics/how-it-works.md)
 + Dashboards (scorecards) {#dashboards}
    + [Een mobiele scorecard maken](dashboards/create-a-mobile-scorecard.md)
    + [Assist managers met mobiele scorecard toegang](dashboards/assist-executives-to-access-mobile-scorecards.md)
