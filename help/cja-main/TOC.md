@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '473'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
    + [Customer Journey Analytics-landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
 + Architectuur {#architecture}
    + [Architectuur en integratie](architecture/architecture-and-integrations-of-cja.md)
-+ Gegevensvoorbereiding en -planning {#data-prep}
++ Voorbereiding en planning van gegevens {#data-prep}
    + [Werken met gegevens](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics-gegevens samenstellen, toewijzen en transformeren](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Gegevens van Adobe Analytics-classificaties invoegen en gebruiken](data-prep/ingest-and-use-analytics-classifications.md)
@@ -79,10 +79,10 @@ ht-degree: 2%
       + [Voorspelling toevoegen aan uw visualisatie](analysis-workspace/visualizations/forecasting.md)
    + Annotaties {#annotations}
       + [Een aantekening maken](analysis-workspace/annotations/create-an-annotation.md)
-   + Curate en share {#curate-and-share}
+   + Curven en delen {#curate-and-share}
       + [Delen met iedereen in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tips en trucs {#tips-and-tricks}
-      + [Dynamische vervolgkeuzefilters maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Dynamische vervolgkeuzelijsten maken](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics-overzicht](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse met instructies {#guided-analysis}
@@ -99,11 +99,11 @@ ht-degree: 2%
    + [ Chronologie ](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Onderdelen {#components}
-   + Filters (segmentatie) {#filters}
-      + [Overzicht van filters](components/filters/introduction-to-filters-in-cja.md)
-      + [Een snel filter maken](components/filters/create-a-quick-filter.md)
-      + [Kanaalfilters maken](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Filters gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
+   + Segmenten {#filters}
+      + [Overzicht van segmenten](components/filters/introduction-to-filters-in-cja.md)
+      + [Een snel segment maken](components/filters/create-a-quick-filter.md)
+      + [Kanaalsegmenten maken](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Segmenten gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Berekende cijfers {#calc-metrics}
       + [Inleiding tot berekende metriek in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,7 +112,7 @@ ht-degree: 2%
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
       + [ Woordenboek van Gegevens van het Gebruik ](components/data-dictionary/use-data-dictionary.md)
-+ Inhoud analyseren {#content-analytics}
++ Content Analytics {#content-analytics}
    + [Inleiding](content-analytics/introduction-to-content-analytics.md)
    + [Hoe werkt het](content-analytics/how-it-works.md)
 + Dashboards (scorecards) {#dashboards}
@@ -125,13 +125,13 @@ ht-degree: 2%
       + [Customer Journey Analytics-werkboeken plannen met Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Experience Platform-integratie {#experience-platform-integration}
    + [Verbeterde rapportage voor Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
-+ Gebruik hoofdletters en kleine letters {#use-cases}
-   + In de gegevensweergave worden gevallen gebruikt {#data-views-use-cases}
++ Gebruik hoofdletters {#use-cases}
+   + Gebruiksscenario&#39;s voor gegevensweergaven {#data-views-use-cases}
       + [Eerste en retoursessies die rapporteren](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Datumveldondersteuning gebruiken](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview) {target=_blank}
-   + [ Digitaal scenario van de het gedrag gegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel) {target=_blank}
-   + [ scenario van de de vervormingsreis van de Vraag ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center) {target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
