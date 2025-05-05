@@ -26,4 +26,4 @@ Leer hoe te vormen [!UICONTROL fully stacked bar] visualisaties (100%) met perce
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL fully stacked var] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Meer informatie over [!UICONTROL fully stacked var] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=nl-NL).

@@ -22,4 +22,4 @@ Leer over **tendensen** in Customer Journey Analytics, die waardevolle inzicht o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=nl-NL) te bezoeken.

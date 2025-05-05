@@ -26,4 +26,4 @@ Meer informatie over toevoegen [!UICONTROL area] en [!UICONTROL area stacked] vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL area] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).
+Meer informatie over [!UICONTROL area] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=nl-NL).

@@ -21,4 +21,4 @@ Leer om koordmanipulatiemethodes te gebruiken om het gewenste gedeelte van afmet
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=nl-NL).

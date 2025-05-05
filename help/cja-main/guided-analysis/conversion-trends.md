@@ -22,4 +22,4 @@ Leer hoe **omzettingstendensen** in de sporen van de Customer Journey Analytics 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=nl-NL) te bezoeken.

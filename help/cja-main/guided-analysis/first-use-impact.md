@@ -22,4 +22,4 @@ Leer hoe **het eerste gebruikseffect** in Customer Journey Analytics toont een v
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=nl-NL) te bezoeken.

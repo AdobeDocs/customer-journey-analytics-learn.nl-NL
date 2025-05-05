@@ -22,4 +22,4 @@ Leer hoe **het effect van de versie** in Customer Journey Analytics een vergelij
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=nl-NL) te bezoeken.

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Het meten van de prestaties van inhoud kan lastig zijn, wat vaak leidt tot giswerk en inefficiëntie. Content Analytics elimineert het giswerk door diepgaande inzichten te verstrekken in wat inhoud efficiënt-of toon, beelden, kleur, of overseinen maakt. Het beantwoordt belangrijke vragen zoals wat de betrokkenheid drijft en hoe de inhoud kan worden geoptimaliseerd.
 
-Voor meer informatie, herzie de Content Analytics [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} .
+Voor meer informatie, herzie de Content Analytics [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} .
 
 ## Inleiding
 

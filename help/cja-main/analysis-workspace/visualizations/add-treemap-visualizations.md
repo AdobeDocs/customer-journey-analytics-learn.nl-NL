@@ -26,4 +26,4 @@ Leer hoe u de [!UICONTROL tree map] visualisatie in [!DNL Analysis Workspace] pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL tree map] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).
+Meer informatie over [!UICONTROL tree map] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=nl-NL).

@@ -23,4 +23,4 @@ In Customer Journey Analytics zijn gegevensweergaven vergelijkbaar met virtuele 
 
 Zie aanvullende video&#39;s over gegevensweergaven waarin u zich kunt concentreren op specifieke functies die uw gegevens nuttiger kunnen maken.
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=nl-NL).

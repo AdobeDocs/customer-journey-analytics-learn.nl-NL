@@ -24,4 +24,4 @@ In deze video bespreken we belangrijke termen en concepten in Customer Journey A
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).

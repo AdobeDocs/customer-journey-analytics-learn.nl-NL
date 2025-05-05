@@ -22,4 +22,4 @@ Leer hoe te om objecten series van profiel en raadplegingsdatasets in CJA te geb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=nl-NL).

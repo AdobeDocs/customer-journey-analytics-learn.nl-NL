@@ -21,4 +21,4 @@ De landingspagina voor Customer Journey Analytics is voorzien van een standaardw
 
 >[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=nl-NL).

@@ -21,4 +21,4 @@ Meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Ga voor meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html).
+Ga voor meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=nl-NL).

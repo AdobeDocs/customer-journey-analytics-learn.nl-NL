@@ -22,4 +22,4 @@ In deze video laten we zien hoe we functies voor gegevenspresentatie kunnen gebr
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Zie voor meer informatie de [Adobe Analytics-bronconnectordocumentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) en de [Documentatie over prepingfuncties voor gegevens](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
+Zie voor meer informatie de [Adobe Analytics-bronconnectordocumentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=nl-NL) en de [Documentatie over prepingfuncties voor gegevens](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=nl-NL).

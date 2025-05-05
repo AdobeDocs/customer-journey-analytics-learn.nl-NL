@@ -21,4 +21,4 @@ Ontdek hoe u de functie Volgende of Vorige in Customer Journey Analytics kunt ge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields).

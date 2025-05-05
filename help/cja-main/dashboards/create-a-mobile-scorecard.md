@@ -22,4 +22,4 @@ In deze video ziet u hoe u een mobiele scorecard kunt maken met de [!DNL Scoreca
 
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=nl-NL).

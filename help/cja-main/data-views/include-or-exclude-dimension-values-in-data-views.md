@@ -24,4 +24,4 @@ Met deze [!UICONTROL Data View] met de configuratiefunctie kunt u waarden in afm
 
 ## Aanvullende resources
 
-* [Customer Journey Analytics - Documentatie gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Documentatie gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=nl-NL)

@@ -22,4 +22,4 @@ Assemblee managers helpen toegang te krijgen tot mobiele scorecards die zijn gem
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=nl-NL).

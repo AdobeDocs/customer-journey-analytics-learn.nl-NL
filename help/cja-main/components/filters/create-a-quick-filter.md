@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een snel segment maken
 
-Maak [!UICONTROL quick segments] rechtstreeks in uw [!DNL Customer Journey Analytics] -projecten en laat de complexiteit van de volledige [!UICONTROL Segment Builder] onverlet. Met deze functie kunt u op een handige manier de componentgegevens segmenteren op basis van eenvoudige criteria en de resultaten direct bekijken. Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters) te bezoeken.
+Maak [!UICONTROL quick segments] rechtstreeks in uw [!DNL Customer Journey Analytics] -projecten en laat de complexiteit van de volledige [!UICONTROL Segment Builder] onverlet. Met deze functie kunt u op een handige manier de componentgegevens segmenteren op basis van eenvoudige criteria en de resultaten direct bekijken. Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/quick-filters) te bezoeken.
 
 >[!NOTE]
 >

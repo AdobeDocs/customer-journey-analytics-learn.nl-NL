@@ -26,4 +26,4 @@ U kunt ook meerdere gebeurtenissen in één treinstel vergelijken, waardoor een 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/funnel/friction) te bezoeken.

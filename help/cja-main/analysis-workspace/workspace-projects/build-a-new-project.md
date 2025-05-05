@@ -23,4 +23,4 @@ Leer hoe u een basisproject maakt in Analysis Workspace for Customer Journey Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html?lang=nl-NL).

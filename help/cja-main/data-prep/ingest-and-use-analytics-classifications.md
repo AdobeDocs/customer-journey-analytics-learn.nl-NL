@@ -23,6 +23,6 @@ Leer hoe u kunt innemen en gebruiken [!DNL Analytics] classificatiegegevens in [
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-Voor meer informatie over de [!DNL Adobe Analytics] bronaansluiting voor [!UICONTROL classifications] gegevens, ga naar [documentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
+Voor meer informatie over de [!DNL Adobe Analytics] bronaansluiting voor [!UICONTROL classifications] gegevens, ga naar [documentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=nl-NL).
 
-In deze video wordt verwezen naar de functie afgeleide velden in Customer Journey Analytics. Kijk voor meer informatie over deze functie naar de [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) of ga naar [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+In deze video wordt verwezen naar de functie afgeleide velden in Customer Journey Analytics. Kijk voor meer informatie over deze functie naar de [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=nl-NL) of ga naar [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=nl-NL).

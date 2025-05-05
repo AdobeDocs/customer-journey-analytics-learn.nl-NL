@@ -26,4 +26,4 @@ Meer informatie [!UICONTROL bullet graphs] worden gebruikt en hoe deze worden to
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+Meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=nl-NL).

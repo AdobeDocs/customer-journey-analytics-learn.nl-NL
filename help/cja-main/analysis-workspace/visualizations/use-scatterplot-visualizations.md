@@ -26,4 +26,4 @@ Leer hoe u de [!UICONTROL scatterplot] visualisatie in [!DNL Analysis Workspace]
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL scatterplot] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Meer informatie over [!UICONTROL scatterplot] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=nl-NL).

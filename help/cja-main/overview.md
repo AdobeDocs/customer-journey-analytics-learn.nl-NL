@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Zelfstudies voor Customers Journey Analytics
 
-Welkom bij de [!DNL Customer Journey Analytics] Site voor zelfstudies.  Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) biedt u een beter inzicht in hoe u Adobe Analytics kunt gebruiken om klanten met meerdere kanalen sneller dan ooit inzicht te geven in uw situatie.  Aan de slag,
+Welkom bij de [!DNL Customer Journey Analytics] Site voor zelfstudies.  Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL) biedt u een beter inzicht in hoe u Adobe Analytics kunt gebruiken om klanten met meerdere kanalen sneller dan ooit inzicht te geven in uw situatie.  Aan de slag,
 
 * Zie de **&quot;Nieuwe functies&quot;** onderstaande sectie voor de meest recente goodies
 * **Personeelspikkels** benadrukt een aantal van onze favoriete inhoud

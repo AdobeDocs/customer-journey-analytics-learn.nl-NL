@@ -22,4 +22,4 @@ Leer hoe u intelligente bijschriften in uw visualisaties kunt inschakelen zodat 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=nl-NL).

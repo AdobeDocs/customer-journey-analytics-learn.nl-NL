@@ -24,4 +24,4 @@ Deze video is geen technisch diep duiken, maar een praktische kijk op hoe [!UICO
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).

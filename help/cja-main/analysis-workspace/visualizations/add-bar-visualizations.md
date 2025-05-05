@@ -26,4 +26,4 @@ Leer hoe u standaard kunt toevoegen en configureren [!UICONTROL bar] en [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL bar] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Meer informatie over [!UICONTROL bar] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=nl-NL).

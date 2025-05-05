@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Volledige tabelexport in Customer Journey Analytics
 
-Leer de basisopstelling van een lijstlevering van Customer Journey Analytics aan zowel AEP Gegevens Landing Zone als Snowflake. Voor gedetailleerde documentatie gaat u naar [Rapporten van de Customer Journey Analytics van de uitvoer naar de wolk](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html).
+Leer de basisopstelling van een lijstlevering van Customer Journey Analytics aan zowel AEP Gegevens Landing Zone als Snowflake. Voor gedetailleerde documentatie gaat u naar [Rapporten van de Customer Journey Analytics van de uitvoer naar de wolk](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 
