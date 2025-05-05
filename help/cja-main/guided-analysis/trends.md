@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer over **tendensen** in Customer Journey Analytics, die waardevolle inzicht over de prestaties van uw product of gebruikersbetrokkenheid in tijd verstrekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432437/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=nl-NL) te bezoeken.

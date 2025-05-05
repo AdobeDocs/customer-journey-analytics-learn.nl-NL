@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer over de visualisatie van het reiscanvas, die u toestaat om diepgaande inzichten op de reizen te analyseren en te krijgen die u aan uw gebruikers en klanten verstrekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440632/?learn=on&captions=dut)
 
 Gebruikers kunnen ritten maken met meerdere begin-, weg- of eindpunten. Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"} te bezoeken .

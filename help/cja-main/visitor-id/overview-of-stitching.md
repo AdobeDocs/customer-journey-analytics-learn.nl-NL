@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Met vele individuen die met uw inhoud over veelvoudige kanalen en apparaten in wisselwerking staan, wordt het altijd belangrijk om deze niet voor authentiek verklaarde gebeurtenissen aan voor authentiek verklaarde degenen aan te sluiten. Dit maakt een meer holistische benadering van rapportage en uiteindelijk activering mogelijk. Deze video geeft een kort overzicht van het heetsproces.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452553/?learn=on&captions=dut)

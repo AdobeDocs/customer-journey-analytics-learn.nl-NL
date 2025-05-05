@@ -20,6 +20,6 @@ ht-degree: 3%
 
 Leer hoe **overeenkomst** in Customer Journey Analytics inzichten over verstrekt hoe vaak uw producteigenschappen tegenover het aantal mensen worden gebruikt die hen gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447473?captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement) te bezoeken.

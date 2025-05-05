@@ -22,6 +22,6 @@ Onderzoek **behoud** in Customer Journey Analytics. Leer hoe u start- en retourg
 
 Leer hoe u start- en retourgebeurtenissen kunt gebruiken om de betrokkenheid en het behoud van gebruikers effectief te meten. In de zelfstudie wordt ook uitgelegd hoe u de retentie-instellingen voor verschillende bedrijfsmodellen kunt aanpassen, of u nu een reiswebsite, e-commerceplatform of productiviteitstool gebruikt. Hanteer praktische tips over het gebruik van retentiegegevens om de productmarkt optimaal te laten aansluiten en de betrokkenheid van gebruikers te stimuleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435784/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/retention/retention-rates) te bezoeken.

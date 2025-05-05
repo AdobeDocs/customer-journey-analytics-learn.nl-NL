@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **het effect van de versie** in Customer Journey Analytics een vergelijking van toont hoe de belangrijkste indicatoren vóór en na een bepaalde datum presteerden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432440/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=nl-NL) te bezoeken.

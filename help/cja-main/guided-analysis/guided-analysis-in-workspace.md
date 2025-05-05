@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Het gebruik **Geleide Analyse** in Analysis Workspace om gegevensinzicht van uitstekende kwaliteit door geleide werkschema&#39;s te dienen. Met deze functie hebt u eenvoudig toegang tot analyses, het maken, opslaan en hergebruiken van analyses, en kunt u taken zoals het bijhouden van de gebruiker en de analyse van trechter stroomlijnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449503/?learn=on&captions=dut)

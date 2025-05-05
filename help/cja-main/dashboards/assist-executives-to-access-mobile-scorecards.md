@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Assemblee managers helpen toegang te krijgen tot mobiele scorecards die zijn gemaakt in [!DNL Customer Journey Analytics] met de [!DNL Analytics] mobiele dashboard-toepassing.  Mobiele scorecards bieden op elk moment toegang tot belangrijke prestatiegegevens en gedetailleerde weergaven, of storingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444842/?quality=12&learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=nl-NL).

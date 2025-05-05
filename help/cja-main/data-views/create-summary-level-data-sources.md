@@ -18,7 +18,7 @@ ht-degree: 1%
 
 De Customer Journey Analytics steunt summiere-vlakke gegevens die gebruikers toestaan om gegevens te groeperen en te analyseren die niet door individuele IDs, zoals campagne of productgegevens wordt georganiseerd. Het proces om deze summiere gegevens in Experience Platform te integreren wordt behandeld met inbegrip van het creëren van verbindingen, het vormen van gegevensmeningen, en het combineren van summiere gegevens met gebeurtenisgegevens voor uitvoerige rapportering. Dit vermogen laat diepere inzichten in campagneprestaties toe en verbetert rapporteringsflexibiliteit binnen CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449415/?quality=12&learn=on&captions=dut)
 
 ## Aanvullende resources
 

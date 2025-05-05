@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe te om objecten series van profiel en raadplegingsdatasets in CJA te gebruiken om uw B2B en B2C analyse, van Verbindingen, aan de Mening van Gegevens, en Werkruimte te verrijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445269/?learn=on&captions=dut)
 
 Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=nl-NL).

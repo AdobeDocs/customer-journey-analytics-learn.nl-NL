@@ -20,6 +20,6 @@ ht-degree: 4%
 
 Leer hoe **frequentie** in Customer Journey Analytics u gebruikersbetrokkenheid met gebeurtenissen in uw product laat analyseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435808/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/trends/frequency) te bezoeken.

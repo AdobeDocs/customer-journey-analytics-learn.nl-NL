@@ -24,4 +24,4 @@ Leer hoe te om drop-down segmenten tot stand te brengen die op een volledige afm
 >
 > &quot;[!UICONTROL Filters]&quot; is hernoemd &quot;[!UICONTROL segments]&quot;in de interface van Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446822/?learn=on&captions=dut)

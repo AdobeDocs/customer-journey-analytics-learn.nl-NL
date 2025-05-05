@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **de actieve groei** in Customer Journey Analytics inzichten rond de groei van gebruikers over een specifieke periode verstrekt, die door nieuwe, herhaal, terugkeer, en slapende gebruikers wordt gespleten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432435/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=nl-NL) te bezoeken.

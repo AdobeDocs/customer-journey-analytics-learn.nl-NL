@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u kunt innemen en gebruiken [!DNL Analytics] classificatiegegevens in [!DNL Customer Journey Analytics]. Zodra de classificatiegegevens beschikbaar zijn in [!DNL Experience Platform], bijwerken [!UICONTROL connections] en [!UICONTROL data views] de nieuwe classificatievelden op te nemen die moeten worden gebruikt in [!DNL Analysis Workspace]. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432474/?quality=12&learn=on&captions=dut)
 
 Voor meer informatie over de [!DNL Adobe Analytics] bronaansluiting voor [!UICONTROL classifications] gegevens, ga naar [documentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=nl-NL).
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Op grafiek gebaseerde stitching maakt gebruik van de macht van de Grafiek van de Identiteit om identiteiten over de toepassingen van het Experience Platform te richten. Deze eigenschap laat meer datasets toe om in Customer Journey Analytics worden aangesloten door een gemeenschappelijke persoonsidentificatie in hen te gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448722/?learn=on&captions=dut)
 
 Door op grafiek-gebaseerde het stitching met de grafiek van de Identiteit, krijg een betere mening van de Klantenreis door:
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u voorspellingsnummers kunt toevoegen aan de visualisatie van uw tijdreeks in de Customer Journey Analytics. Voor gedetailleerde documentatie gaat u naar [Overzicht van de prognoses](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443839/?learn=on&captions=dut)

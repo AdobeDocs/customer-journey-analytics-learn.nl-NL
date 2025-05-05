@@ -20,6 +20,6 @@ ht-degree: 0%
 
 In deze video laten we zien hoe we functies voor gegevenspresentatie kunnen gebruiken voor analysegegevens, waaronder functies voor het manipuleren van gegevens, zoals het toewijzen van variabelen voor Analytics aan nieuwe aangepaste velden en het uitvoeren van transformaties en berekeningen. Deze activiteiten worden uitgevoerd in de workflow Bronverbindingen voor Analytics in Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430252?quality=12&learn=on&captions=dut)
 
 Zie voor meer informatie de [Adobe Analytics-bronconnectordocumentatie](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=nl-NL) en de [Documentatie over prepingfuncties voor gegevens](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=nl-NL).

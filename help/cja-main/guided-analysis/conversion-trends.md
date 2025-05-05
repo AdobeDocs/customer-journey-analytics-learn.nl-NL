@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **omzettingstendensen** in de sporen van de Customer Journey Analytics veranderingen in de tarieven van de kanaalomzetting in tijd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432446/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=nl-NL) te bezoeken.
