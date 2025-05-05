@@ -22,4 +22,4 @@ Leer over de visualisatie van het reiscanvas, die u toestaat om diepgaande inzic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
 
-Gebruikers kunnen ritten maken met meerdere begin-, weg- of eindpunten. Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas) te bezoeken {target="_blank"}.
+Gebruikers kunnen ritten maken met meerdere begin-, weg- of eindpunten. Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"} te bezoeken .

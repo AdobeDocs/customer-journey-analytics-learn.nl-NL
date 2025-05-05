@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Analysis Workspace-sjablonen
 
-Wil je niet helemaal opnieuw beginnen? Leer hoe u uw analyse in Workspace kunt starten met een Workspace-sjabloon. U kunt kiezen uit een sjabloon voor een curatieve Adobe of u kunt een sjabloon voor een aangepaste organisatie maken. Blader naar de juiste sjabloon in een kaart- of kolomweergave, afhankelijk van uw voorkeur! Voor gedetailleerde documentatie, zie [ malplaatjes ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en) creëren en beheren {target="_blank"}.
+Wil je niet helemaal opnieuw beginnen? Leer hoe u uw analyse in Workspace kunt starten met een Workspace-sjabloon. U kunt kiezen uit een sjabloon voor een curatieve Adobe of u kunt een sjabloon voor een aangepaste organisatie maken. Blader naar de juiste sjabloon in een kaart- of kolomweergave, afhankelijk van uw voorkeur! Voor gedetailleerde documentatie, zie [ malplaatjes ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"} creëren en beheren .
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
