@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
+source-git-commit: badc0b76feaa157a48b37350f9594bf85055cd5d
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -133,6 +133,32 @@ ht-degree: 3%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [ de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [ Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [ scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ Adobe Summit {#summit}
+   + 2025 {#2025}
+      + Shorts {#shorts}
+         + [Video kort](./summit/2025/shorts/algorithmic-attribution--a-game-changer-for-marketers.md)
+         + [Video kort](./summit/2025/shorts/analytics-easy-mode--simplifying-workspace-for-all-users.md)
+         + [Video kort](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/audience-agent--proactive-audience-health-monitoring.md)
+         + [Video kort](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
+         + [Video kort](./summit/2025/shorts/content-analytics--ai-powered-insights-for-creative-assets.md)
+         + [Video kort](./summit/2025/shorts/data-as-a-product--planning-your-cja-implementation.md)
+         + [Video kort](./summit/2025/shorts/data-insights-agent--empowering-self-service-analytics.md)
+         + [Video kort](./summit/2025/shorts/derived-fields--user-state-change-metrics.md)
+         + [Video kort](./summit/2025/shorts/gamifying-workspace--unlock-achievements-in-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/graph-based-stitching-for-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
+         + [Video kort](./summit/2025/shorts/how-genai-enhances-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/identity-stitching-in-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/implementation-best-practices-for-customer-journey-analytics.md)
+         + [Video kort](./summit/2025/shorts/in-line-derived-fields--real-time-data-transformation-in-cja.md)
+         + [Video kort](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator--the-next-era-of-genai-innovation.md)
+         + [Video kort](./summit/2025/shorts/journey-canvas--visualizing-complex-funnels.md)
+         + [Video kort](./summit/2025/shorts/run-and-operate-strategies-for-scaling-adobe-implementations.md)
+         + [Video kort](./summit/2025/shorts/the-strategic-imperative-of-customer-analytics.md)
+         + [Video kort](./summit/2025/shorts/three-types-of-cja-implementation-projects.md)
+         + [Video kort](./summit/2025/shorts/understanding-customer-journey-analytics-as-your-dream-home.md)
