@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Bewerk [!DNL Content Analytics] -configuraties op efficiënte wijze door namen, gegevensweergaven en instellingen voor vastleggen aan te passen. Met deze handeling worden de metriek automatisch bijgewerkt en worden de afstemmingen via de extensie Content Analytics Tags bijgewerkt voor geoptimaliseerde inzichten.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
