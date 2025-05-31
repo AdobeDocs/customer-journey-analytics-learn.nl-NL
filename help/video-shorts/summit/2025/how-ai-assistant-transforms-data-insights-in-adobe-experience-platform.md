@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe Adobe AI Assistant instant gegevensinzicht biedt, workflows transformeert met zoekopdrachten in natuurlijke talen en activeerbare resultaten.
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459918/?learn=on&enablevpops=true&captions=dut)

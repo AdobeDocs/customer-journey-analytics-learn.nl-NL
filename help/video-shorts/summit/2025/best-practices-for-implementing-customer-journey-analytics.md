@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek de beste praktijken voor de implementatie van Customer Journey Analytics, inclusief concepttest, tussentijdse oplossingen en volledige implementatiestrategieën.
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460072/?learn=on&enablevpops=true&captions=dut)

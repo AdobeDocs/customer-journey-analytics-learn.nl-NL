@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer de belangrijkste drie gebieden om zich op voor succesvolle implementatie van Customer Journey Analytics, met inbegrip van gegevensmodellering, schema ontwerp, en identiteitsbeheer te concentreren.
 
 <!-- 62_S655_3442541_180_implementation-best-practices-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458337/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460259/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Zie hoe In-line Voortgekomen Gebieden gebruikers machtigen om gegevens in Customer Journey Analytics direct schoon te maken en te groeperen, die afhankelijkheid van beheerders verminderen en tijd besparen.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460292/?learn=on&enablevpops=true&captions=dut)

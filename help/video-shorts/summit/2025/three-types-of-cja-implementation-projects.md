@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek de drie soorten Customer Journey Analytics-implementatieprojecten: concepttest, tussentijdse gevallen van meerkanaals gebruik en volledige implementatie.
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463028/?learn=on&enablevpops=true&captions=dut)

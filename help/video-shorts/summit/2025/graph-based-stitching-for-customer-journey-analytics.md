@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe op grafiek-gebaseerde het stitching naadloze integratie van veelvoudige datasets toelaat, die tot een verenigde klantenmening voor actionable inzichten leiden.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460222/?learn=on&enablevpops=true&captions=dut)

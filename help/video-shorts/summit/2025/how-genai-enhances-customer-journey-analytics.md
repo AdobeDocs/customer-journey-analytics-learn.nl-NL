@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe Generative AI Customer Journey Analytics transformeert door inzichten op te zoeken, gebruikers mondiger te maken en gegevensanalyses toegankelijker te maken.
 
 <!-- 62_S106_3442453_47_how-genai-enhances-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458377/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459998/?learn=on&enablevpops=true&captions=dut)
