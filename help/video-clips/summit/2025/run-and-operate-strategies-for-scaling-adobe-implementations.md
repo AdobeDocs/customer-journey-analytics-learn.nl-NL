@@ -20,4 +20,4 @@ ht-degree: 0%
 Onderzoek de interne strategieën van Adobe voor het runnen en het in werking stellen van grootschalige implementaties, met inbegrip van gebruikscategorieën, controle, en ROI meting.
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461086/?learn=on&enablevpops=true&captions=dut)

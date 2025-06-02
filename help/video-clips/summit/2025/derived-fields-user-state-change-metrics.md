@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe u metriek kunt maken voor gebruikersovergangen, zoals van zilver naar goud, en deze kunt toewijzen aan marketingkanalen met behulp van afgeleide velden in CJA.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460039/?learn=on&enablevpops=true&captions=dut)

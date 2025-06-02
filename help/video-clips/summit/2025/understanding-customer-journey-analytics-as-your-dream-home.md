@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe u Customer Journey Analytics (CJA) kunt zien als uw droomhuis, met nieuwe vereisten en mogelijkheden om aan veranderende bedrijfsbehoeften te voldoen.
 
 <!-- 62_S113_3442460_95_understanding-customer-journey-analytics-as-your-dream-home -->
->[!VIDEO](https://video.tv.adobe.com/v/3458327/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462974/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Leer hoe te om Summiere Gegevensbronnen in Customer Journey Analytics te gebruiken om over marketing kosten te rapporteren, rendement op advertentie te berekenen, en collectieve doelstellingen te volgen.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460086/?learn=on&enablevpops=true&captions=dut)

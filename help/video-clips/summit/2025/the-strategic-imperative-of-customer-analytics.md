@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek waarom de overstap van apparaatgebaseerde analyse naar klantgerichte analyse een concurrerende noodzaak is en hoe Customer Journey Analytics unieke waarde biedt.
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463007/?learn=on&enablevpops=true&captions=dut)

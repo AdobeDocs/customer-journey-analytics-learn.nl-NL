@@ -20,4 +20,4 @@ ht-degree: 0%
 Ontdek hoe in de eenvoudige modus Analytics verborgen functies in Analysis Workspace zichtbaar worden, waardoor gebruikers gemakkelijker toegang hebben tot krachtige gereedschappen en hun workflows kunnen stroomlijnen.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459721/?learn=on&enablevpops=true&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Onderzoek de twee soorten identiteit stitching in CJA-op gebied-gebaseerd en op grafiek-gebaseerd-en hoe zij omnichannel analyse toelaten.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460005/?learn=on&enablevpops=true&captions=dut)
