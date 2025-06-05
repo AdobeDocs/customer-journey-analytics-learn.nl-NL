@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Deze video verstrekt een geleidelijke analyse bij vestiging op rol-gebaseerde toestemmingen in Adobe Customer Journey Analytics, met inbegrip van hoe te om gebruikers toe te wijzen, productprofielen te vormen, en toegangsniveaus te beheren. Het toont ook aan hoe te om korrelige gegevens toe te passen controles-zoals rij-niveau en metrisch-vlakke filtreren-gebruikend segmenten binnen gegevensmeningen.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
+Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
