@@ -21,4 +21,4 @@ Deze video verstrekt een geleidelijke analyse bij vestiging op rol-gebaseerde to
 
 Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463391/?learn=on&captions=dut)
