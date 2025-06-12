@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Analyse stroomlijnen met zoekopdrachten voor natuurlijke talen, realtime visualisaties en vrije-vormtabellen. Verhoog de efficiëntie bij het ontwikkelen van een marketingstrategie, het campagnebeheer en de rapportage van de bedrijfsprestaties. Deze door AI aangedreven oplossing stelt marketers in staat om onmiddellijk inzicht te krijgen en analisten vrij te stellen voor strategische taken, de ervaringen van klanten te verbeteren en proactieve beslissingen te nemen.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)

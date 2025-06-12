@@ -18,7 +18,7 @@ ht-degree: 0%
 
 De [!DNL Data Insights Agent], die wordt aangedreven door Adobe Experience Platform Agent Orchestrator, zorgt voor een revolutie in de organisatie van de klantervaring voor marketeers en zakelijke gebruikers. Het gebruikt generatieve AI om persoonlijke inzichten in real time te leveren via zoekopdrachten in natuurlijke talen, waardoor de knelpunten van traditionele analisten worden doorbroken.
 
-Voor meer informatie, herzie de Data Insights Agent [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Voor meer informatie, herzie de Data Insights Agent [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 ## Inleiding
 
