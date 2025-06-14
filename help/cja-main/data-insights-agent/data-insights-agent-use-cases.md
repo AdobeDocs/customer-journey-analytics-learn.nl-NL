@@ -21,4 +21,4 @@ Analyse stroomlijnen met zoekopdrachten voor natuurlijke talen, realtime visuali
 
 Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463914/?learn=on&enablevpops&captions=dut)
