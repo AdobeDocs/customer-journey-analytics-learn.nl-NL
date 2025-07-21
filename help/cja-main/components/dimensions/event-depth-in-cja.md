@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Gebeurtenisdiepte in Customer Journey Analytics
 
-De Diepte van de gebeurtenis in Customer Journey Analytics is een standaarddimensiecomponent die nauwkeurige opeenvolging van gebruikersinteractie binnen zittingen toelaat, die waardevolle inzichten in klantengedragspatronen over digitale en off-line platforms verstrekken. Voor extra informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}.
+De Diepte van de gebeurtenis in Customer Journey Analytics is een standaarddimensiecomponent die nauwkeurige opeenvolging van gebruikersinteractie binnen zittingen toelaat, die waardevolle inzichten in klantengedragspatronen over digitale en off-line platforms verstrekken. Voor extra informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
