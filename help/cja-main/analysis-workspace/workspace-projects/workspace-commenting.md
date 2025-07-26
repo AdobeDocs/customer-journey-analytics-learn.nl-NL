@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u en uw team via Workspace in Adobe Customer Journey Analytics rechtstreeks aan uw gegevens kunnen samenwerken. Stel vragen, deel inzichten, en bouw consensus zonder uw analyse ooit te verlaten. Leer meer door de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"} te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469452/?learn=on&enablevpops&captions=dut)
