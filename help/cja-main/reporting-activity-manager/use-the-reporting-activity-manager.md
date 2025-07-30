@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Gebruik de Manager van de Activiteit van de Rapportering in [!DNL Customer Journey Analytics] om rapporteringscapaciteit over organisatorische verbindingen te controleren en te beheren. In deze video wordt aandacht besteed aan de toegang tot belangrijke metriek, problemen met de prestaties van het oplossen van problemen en het optimaliseren van de efficiëntie van het systeem.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview) te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
