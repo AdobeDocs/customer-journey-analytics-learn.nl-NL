@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4bc73965db5cebde137b2ecda51a3cf1866fb32
+source-git-commit: b0dab232e90fcc5964fd9782d86a5e904da45478
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '530'
 ht-degree: 3%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 3%
       + [Lijstgrafieken voor opsommingstekens toevoegen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Donut-visualisaties toevoegen](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Lijnvisualisatie toevoegen](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [De kaartvisualisatie configureren en gebruiken](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Samenvattingsvisualisaties gebruiken](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Tekstvisualisatie toevoegen](analysis-workspace/visualizations/add-text-visualizations.md)
       + [De scatterplot-visualisatie gebruiken](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
@@ -150,6 +151,6 @@ ht-degree: 3%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [ de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [ Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [ scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
