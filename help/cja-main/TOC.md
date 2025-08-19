@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b0dab232e90fcc5964fd9782d86a5e904da45478
+source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '533'
 ht-degree: 3%
 
 ---
@@ -74,6 +74,7 @@ ht-degree: 3%
       + [Het deelvenster Snelle inzichten gebruiken](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + Sjablonen {#templates}
       + [Sjablonen gebruiken](analysis-workspace/templates/use-templates.md)
+      + [Aangepaste sjablonen maken](analysis-workspace/templates/create-custom-templates.md)
    + Visualisaties {#visualizations}
       + [Kanaaloverschrijdende visualisaties maken](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Kanaaltoewijzing](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -151,6 +152,6 @@ ht-degree: 3%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [ de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [ Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [ scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
