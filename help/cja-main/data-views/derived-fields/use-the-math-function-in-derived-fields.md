@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Bekijk in deze videozelfstudie de mogelijkheden om Math-functies te gebruiken voor het maken van afgeleide velden in Customer Journey Analytics. Leer om metriek aan te passen door ongewenste componenten zoals belasting van totalen te verwijderen, en de voordelen te begrijpen van het gebruiken van afgeleide gebieden over berekende metriek, met inbegrip van exclusieve eigenschappen van de gegevensmening zoals deduplicatie, het knippen, en attributie. Geniet van de flexibiliteit om maatstaven te maken die zijn afgestemd op de behoeften van uw analysemogelijkheden, waardoor uw gegevensgestuurde besluitvormingsmogelijkheden worden verbeterd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447215?captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
