@@ -22,4 +22,4 @@ Bekijk in deze videozelfstudie de mogelijkheden om Math-functies te gebruiken vo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.

@@ -28,4 +28,4 @@ Voorbeelden van gebruiksgevallen zijn:
 * Configureer een afgeleid veld voor de paginanaam dat de waarden van de paginanaam corrigeert die onjuist zijn verzameld.
 * Configureer een afgeleid marketingkanaalveld dat het juiste marketingkanaal bepaalt op basis van een of meer voorwaarden, zoals URL-parameter, pagina-URL of paginanaam.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=nl-NL) te bezoeken.
