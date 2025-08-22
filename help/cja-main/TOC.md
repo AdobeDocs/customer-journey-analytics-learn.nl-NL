@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 0136260473c8941b3f774b35b57e44eff331ad60
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '545'
 ht-degree: 3%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 3%
    + [Inleiding tot Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nieuwe termen en concepten](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics-landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
+   + [AI-assistent gebruiken](cja-basics/use-ai-assistant.md)
 + Architectuur {#architecture}
    + [Architectuur en integratie](architecture/architecture-and-integrations-of-cja.md)
 + Voorbereiding en planning van gegevens {#data-prep}
@@ -58,7 +59,6 @@ ht-degree: 3%
       + [Diepte van gebeurtenis aanpassen](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
       + [Typecasting gebruiken](data-views/derived-fields/use-typecasting-in-derived-fields.md)
       + [Datumpad gebruiken om tijd tussen gebeurtenissen te berekenen](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-
 + Data Insights Agent {#data-insights-agent}
    + [Inleiding](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Gebruik hoofdletters](data-insights-agent/data-insights-agent-use-cases.md)
@@ -157,6 +157,6 @@ ht-degree: 3%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [ de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [ Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [ scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
