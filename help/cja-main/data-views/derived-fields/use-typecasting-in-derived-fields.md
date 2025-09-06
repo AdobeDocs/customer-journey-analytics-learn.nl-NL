@@ -21,4 +21,4 @@ Typecasting in Customer Journey Analytics afgeleide gebieden ontdekken. Met Type
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471060/?learn=on&captions=dut)

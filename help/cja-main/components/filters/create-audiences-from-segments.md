@@ -21,4 +21,4 @@ Leer hoe u publiek maakt en publiceert van Customer Journey Analytics naar de Re
 
 Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471279/?learn=on&captions=dut)

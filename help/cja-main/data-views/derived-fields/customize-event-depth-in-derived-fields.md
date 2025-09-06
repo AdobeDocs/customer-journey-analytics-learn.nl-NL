@@ -21,4 +21,4 @@ Leer hoe u de gebeurtenisdiepte in van Customer Journey Analytics afgeleide veld
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471049/?learn=on&captions=dut)

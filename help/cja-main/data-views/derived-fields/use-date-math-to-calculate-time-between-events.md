@@ -20,4 +20,4 @@ Masterdatum wissen in van Customer Journey Analytics afgeleide velden. Date Math
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471071/?learn=on&captions=dut)
