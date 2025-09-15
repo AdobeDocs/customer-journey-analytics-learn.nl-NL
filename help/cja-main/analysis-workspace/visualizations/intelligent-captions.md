@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u intelligente bijschriften in uw visualisaties kunt inschakelen zodat u automatisch natuurlijke taalinzichten over uw gegevens kunt opvragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443144/?learn=on&captions=dut)
 
 Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=nl-NL) te bezoeken.
