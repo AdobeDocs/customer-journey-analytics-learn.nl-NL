@@ -8,18 +8,18 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02T00:00:00Z
 jira: KT-13383
 thumbnail: 3420131.jpeg
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Intelligente bijschriften maken
 
 Leer hoe u intelligente bijschriften in uw visualisaties kunt inschakelen zodat u automatisch natuurlijke taalinzichten over uw gegevens kunt opvragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443144/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=nl-NL).
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en) te bezoeken.
