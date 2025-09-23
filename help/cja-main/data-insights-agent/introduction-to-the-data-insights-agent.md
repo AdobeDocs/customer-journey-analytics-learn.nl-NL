@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot de Data Insights Agent
-description: Meer weten over de Data Insights Agent in Customer Journey Analytics? Deze door AI aangestuurde oplossing breekt de knelpunten in de onderneming door onmiddellijk en transparant inzicht te verschaffen aan marketeers.
+description: Meer informatie over de Data Insights-agent in Customer Journey Analytics. Deze AI-gestuurde oplossing doorbreekt knelpunten binnen bedrijven door marketeers directe, transparante inzichten te bieden.
 feature: AI Tools
 role: Leader, User
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
 source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 De [!DNL Data Insights Agent], die wordt aangedreven door Adobe Experience Platform Agent Orchestrator, zorgt voor een revolutie in de organisatie van de klantervaring voor marketeers en zakelijke gebruikers. Het gebruikt generatieve AI om persoonlijke inzichten in real time te leveren via zoekopdrachten in natuurlijke talen, waardoor de knelpunten van traditionele analisten worden doorbroken.
 
-Voor meer informatie, herzie de Data Insights Agent [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Voor meer informatie, herzie de Data Insights Agent [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 ## Inleiding
 
 Meer informatie over de [!DNL Data Insights Agent] in Customer Journey Analytics. Deze door AI aangestuurde oplossing biedt onmiddellijk en transparant inzicht aan marketers en belanghebbenden in het bedrijfsleven, waardoor vertragingen en uitgebreide training worden voorkomen en analisten voor strategische taken worden vrijgemaakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463903/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Data Insights Agent-gebruikskwesties
@@ -41,7 +41,7 @@ Meer informatie over de [!DNL Data Insights Agent] in Customer Journey Analytics
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agent-gebruikskwesties" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463914/?format=jpeg&nocache=1742338375674&captions=dut" alt="Data Insights Agent-gebruikskwesties"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent-gebruikskwesties"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ Meer informatie over de [!DNL Data Insights Agent] in Customer Journey Analytics
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="De Data Insights Agent gebruiken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463925/?format=jpeg&nocache=1742338375674&captions=dut" alt="De Data Insights Agent gebruiken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="De Data Insights Agent gebruiken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
