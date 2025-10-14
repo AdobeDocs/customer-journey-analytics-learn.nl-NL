@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Typecasting in Customer Journey Analytics afgeleide gebieden ontdekken. Met Typecasting worden de gegevenstypen van schemavelden aangepast, zoals het omzetten van tekenreeksen in numerieke of datetime in tekenreeksen voor geavanceerde analyses. Velden eenvoudig configureren en combineren om krachtige inzichten voor uw bedrijf te ontsluiten.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields) te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471060/?learn=on&captions=dut)

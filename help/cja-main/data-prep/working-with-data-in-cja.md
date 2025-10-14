@@ -24,4 +24,4 @@ In deze video leert u hoe [!UICONTROL dataset] [!UICONTROL schemas] wordt omgeze
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).
+Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Ontdek hoe u met de AI Assistant in Customer Journey Analytics concepten kunt leren, problemen kunt oplossen en workflows kunt optimaliseren. Ontgrendel het volledige potentieel van CJA met conversatie-AI die is opgeleid in Experience League-documentatie, perfect voor beginners en experts.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471153/?learn=on&captions=dut)

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # De kaartvisualisatie configureren en gebruiken
 
-Breng uw locatiegegevens tot leven met de kaartvisualisatie! Identificeer geo clusters en maak direct segmenten met het selectiegereedschap. Enkel een paar eenvoudige configuratiestappen en u bent klaar om te gaan! Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
+Breng uw locatiegegevens tot leven met de kaartvisualisatie! Identificeer geo clusters en maak direct segmenten met het selectiegereedschap. Enkel een paar eenvoudige configuratiestappen en u bent klaar om te gaan! Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470825/?learn=on&enablevpops&captions=dut)

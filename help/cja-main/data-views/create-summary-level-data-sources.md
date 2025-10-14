@@ -22,4 +22,4 @@ De Customer Journey Analytics steunt summiere-vlakke gegevens die gebruikers toe
 
 ## Aanvullende resources
 
-* Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/summary-data) te bezoeken
+* Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/summary-data) te bezoeken

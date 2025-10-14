@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # [!DNL segments] gebruiken als afmetingen in Analysis Workspace-projecten
 
-Leer hoe u segmenten kunt vergelijken en visualiseren wanneer deze als afmetingen worden gebruikt in Analysis Workspace-projecten. Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Leer hoe u segmenten kunt vergelijken en visualiseren wanneer deze als afmetingen worden gebruikt in Analysis Workspace-projecten. Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >

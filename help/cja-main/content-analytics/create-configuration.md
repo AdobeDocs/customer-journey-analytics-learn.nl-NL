@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Leer hoe u de [!DNL Content Analytics] geleide workflow gebruikt. Het vereenvoudigt het opstellingsproces voor Marketers, toelatend efficiënte gegevensinzameling, verwerking, en rapportering binnen Customer Journey Analytics.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)

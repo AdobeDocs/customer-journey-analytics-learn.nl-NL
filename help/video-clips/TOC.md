@@ -37,4 +37,4 @@ ht-degree: 1%
       + [Video kort](./summit/2025/run-and-operate-strategies-for-scaling-adobe-implementations.md)
       + [Video kort](./summit/2025/the-strategic-imperative-of-customer-analytics.md)
       + [Video kort](./summit/2025/three-types-of-cja-implementation-projects.md)
-      + [ korte Video ](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)
+      + [&#x200B; korte Video &#x200B;](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)

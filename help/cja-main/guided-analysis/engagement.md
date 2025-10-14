@@ -22,4 +22,4 @@ Leer hoe **overeenkomst** in Customer Journey Analytics inzichten over verstrekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447473?captions=dut)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement) te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement) te bezoeken.

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Leer hoe u publiek maakt en publiceert van Customer Journey Analytics naar de Real-Time Customer Data Platform. Deze video begeleidt u door het bouwen van segmenten, het bepalen van publiek verfrist frequenties, en het gebruiken van inzichten voor campagnes in Journey Optimizer of derdetoepassingen.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471279/?learn=on&captions=dut)

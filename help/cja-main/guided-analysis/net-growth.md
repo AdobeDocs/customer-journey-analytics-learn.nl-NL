@@ -22,4 +22,4 @@ Leer hoe **netto groei** in Customer Journey Analytics inzichten rond het tarief
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432441/?learn=on&captions=dut)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=nl-NL) te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=nl-NL) te bezoeken.

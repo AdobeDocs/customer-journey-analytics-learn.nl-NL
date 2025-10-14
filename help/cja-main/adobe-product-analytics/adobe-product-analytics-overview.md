@@ -31,4 +31,4 @@ Met behulp van Adobe Product Analytics kunnen teams:
 * Ontdek betekenisvolle segmenten van gebruikers om zich gedurende hun hele levenslange reis met het product te engageren en te voeden
 * Verbinding maken met Analysis Workspace voor uitgebreidere analyse en samenwerking met analisten
 
-Voor extra informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/overview) te bezoeken.
+Voor extra informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/overview) te bezoeken.
