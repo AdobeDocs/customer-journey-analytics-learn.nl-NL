@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer de basisopstelling van een lijstlevering van Customer Journey Analytics aan zowel AEP Gegevens Landing Zone als Snowflake. Voor gedetailleerde documentatie gaat u naar [Rapporten van de Customer Journey Analytics van de uitvoer naar de wolk](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=nl-NL).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450979/?captions=dut&learn=on)
 
 Met &quot;volledige lijstuitvoer,&quot;kunnen de gebruikers veilig samengevoegde lijsten leveren die alle rijen van een rapport bevatten aan hun wolkenbestemming op een eenmalig of geplande basis.  Bovendien biedt de nieuwe exportcomponentmanager eenvoudig beheer van alle leveringen.

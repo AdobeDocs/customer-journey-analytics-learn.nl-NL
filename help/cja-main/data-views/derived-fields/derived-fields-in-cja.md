@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer hoe te om afgeleide gebieden tot stand te brengen om complexe gegevensmanipulaties tot stand te brengen door een klantgerichte regelbouwer, en dan hebben de logica retroactief op hun rapportering van toepassing is. Dit kan aanzienlijke tijd besparen, omdat gegevens in een bruikbare indeling kunnen worden gebruikt voor rapportage, analyse en actie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450910/?captions=dut&learn=on)
 
 Met deze functie kunt u de kwaliteit en nauwkeurigheid van gegevens in uw projecten verbeteren door gegevensfouten of -hiaten.
 Voorbeelden van gebruiksgevallen zijn:
