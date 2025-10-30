@@ -1,6 +1,6 @@
 ---
 title: Trechter
-description: Leer hoe de trechter in de Customer Journey Analytics een visuele weergave van een kritieke gebruikerstraject in uw product biedt en u helpt te bepalen waar er wrijving in zit.
+description: Leer hoe funnel in Customer Journey Analytics een visuele weergave biedt van een kritieke gebruikersreis in uw product en u helpt te bepalen waar er wrijving in zit.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,21 +9,21 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Trechter
 
-Leer hoe **trechter** in Customer Journey Analytics een visuele vertegenwoordiging van een kritieke gebruikersreis in uw product verstrekt en helpt u bepalen waar er wrijving in het is.
+Leer hoe **funnel** in Customer Journey Analytics een visuele vertegenwoordiging van een kritieke gebruikersreis in uw product verstrekt en helpt u bepalen waar er wrijving in het is.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432444/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-U kunt ook meerdere gebeurtenissen in één treinstel vergelijken, waardoor een &quot;forked trechter&quot; ontstaat. Met deze &quot;forked trechter&quot; kunt u de wrijving van twee reizen naast elkaar vergelijken, wat nuttig kan zijn wanneer er stapopties zijn of er een A/B-experiment wordt uitgevoerd in de trechter.
+U kunt ook meerdere gebeurtenissen in één funnel-stap vergelijken en zo een &#39;forked funnel&#39; maken. Met deze &quot;geforceerde funnel&quot; kunt u de wrijving van twee reizen naast elkaar vergelijken, wat nuttig kan zijn wanneer er stapopties zijn of er een A/B-experiment wordt uitgevoerd binnen de funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445805/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/funnel/friction) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"} te bezoeken.

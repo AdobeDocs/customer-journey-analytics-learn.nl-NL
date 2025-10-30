@@ -12,17 +12,17 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics verplaatsen [!UICONTROL Segments] naar Customer Journey Analytics
+# Adobe Analytics [!UICONTROL Segments] naar Customer Journey Analytics verplaatsen
 
 In deze video leert u tips voor het opnieuw maken van uw Adobe Analytics [!UICONTROL segments] als &quot;[!UICONTROL filters]&quot; in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).
+Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

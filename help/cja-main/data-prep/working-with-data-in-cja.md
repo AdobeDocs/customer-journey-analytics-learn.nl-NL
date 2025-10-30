@@ -11,17 +11,17 @@ kt: 3964
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 32%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Werken met gegevens in Customer Journey Analytics
 
-In deze video leert u hoe [!UICONTROL dataset] [!UICONTROL schemas] wordt omgezet in variabelen in Customer Journey Analytics (CJA) en hoe CJA zeer hoge kardinaliteit behandelt.
+In deze video leert u hoe [!UICONTROL dataset] [!UICONTROL schemas] wordt omgezet in variabelen in Customer Journey Analytics (CJA) en hoe CJA zeer hoge kardinaliteit hanteert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).
+Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

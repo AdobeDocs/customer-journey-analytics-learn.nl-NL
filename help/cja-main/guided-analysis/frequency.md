@@ -9,10 +9,10 @@ last-substantial-update: 2023-04-23T00:00:00Z
 jira: KT-15090
 thumbnail: 3428089.jpeg
 exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 4%
 
 Leer hoe **frequentie** in Customer Journey Analytics u gebruikersbetrokkenheid met gebeurtenissen in uw product laat analyseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435808/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/trends/frequency) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"} te bezoeken.

@@ -1,5 +1,5 @@
 ---
-title: Je berekende cijfers van Adobe Analytics naar Customer Journey Analytics verplaatsen
+title: Je berekende cijfers verplaatsen van Adobe Analytics naar Customer Journey Analytics
 description: In deze video vindt u tips voor het opnieuw maken van je Adobe Analytics Calculated Metrics in Customer Journey Analytics.
 feature: Metrics
 topics: null
@@ -12,17 +12,17 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Verplaats uw [!UICONTROL Calculated Metrics] van Adobe Analytics naar Customer Journey Analytics
+# [!UICONTROL Calculated Metrics] van Adobe Analytics naar Customer Journey Analytics verplaatsen
 
 In deze video vindt u tips voor het opnieuw maken van uw Adobe Analytics [!UICONTROL Calculated Metrics] in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).
+Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

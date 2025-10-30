@@ -11,7 +11,7 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Kanaal [!UICONTROL segments] maken in Customer Journey Analytics
 
-Leer hoe u [!UICONTROL segments] maakt in Adobe Customer Journey Analytics die meer dan één gegevensbron en kanaal gebruikt. Leer bovendien hoe [!UICONTROL segments] kan worden gecombineerd in [!UICONTROL visualizations] . Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/filters-overview) te bezoeken.
+Leer hoe u [!UICONTROL segments] maakt in Adobe Customer Journey Analytics die meer dan één gegevensbron en kanaal gebruikt. Leer bovendien hoe [!UICONTROL segments] kan worden gecombineerd in [!UICONTROL visualizations] . Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"} te bezoeken.
 
 >[!NOTE]
 >

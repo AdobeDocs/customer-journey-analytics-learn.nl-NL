@@ -1,6 +1,6 @@
 ---
-title: Toevoegen [!UICONTROL bullet graph] visualisaties voor [!DNL Analysis Workspace] projecten
-description: Meer informatie [!UICONTROL bullet graphs] worden gebruikt en hoe deze worden toegevoegd aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics].
+title: Voeg [!UICONTROL bullet graph] visualisaties aan  [!DNL Analysis Workspace]  projecten toe
+description: Leer hoe [!UICONTROL bullet graphs] worden gebruikt en hoe te om hen aan  [!DNL Analysis Workspace]  projecten in  [!DNL Customer Journey Analytics] toe te voegen.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13403
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Toevoegen [!UICONTROL bullet graph] visualisaties voor [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics]
+# [!UICONTROL bullet graph] visualisaties toevoegen aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics]
 
-Meer informatie [!UICONTROL bullet graphs] worden gebruikt en hoe deze worden toegevoegd aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics]. Deze grafiek toont u hoe een waarde van rente met of maatregelen tegen doelstellingen vergelijkt.
+Leer hoe [!UICONTROL bullet graphs] wordt gebruikt en hoe u deze kunt toevoegen aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics] . Deze grafiek toont u hoe een waarde van rente met of maatregelen tegen doelstellingen vergelijkt.
 
 >[!NOTE]
 >
->De [!DNL Analysis Workspace] gebruikersinterface en functies lijken op elkaar [!DNL Adobe Analytics] en [!DNL Customer Journey Analytics].
+>De gebruikersinterface en functies van [!DNL Analysis Workspace] zijn vergelijkbaar in [!DNL Adobe Analytics] en [!DNL Customer Journey Analytics] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=nl-NL).
+Voor meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.

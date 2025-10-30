@@ -1,5 +1,5 @@
 ---
-title: Inleiding tot Berekende metriek in Customer Journey Analytics
+title: Inleiding tot Berekende cijfers in Customer Journey Analytics
 description: In deze video bekijken we de basisbeginselen van het maken van Berekende Metriek in Adobe Customer Journey Analytics.
 feature: Metrics
 topics: null
@@ -11,9 +11,9 @@ kt: 4448
 role: User
 level: Beginner
 exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ In deze video bekijken we de basisbeginselen van het maken van [!UICONTROL Calcu
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
-Ga voor meer informatie over Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL).
+Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

@@ -8,24 +8,24 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Inleiding tot Content Analytics
 
-Het meten van de prestaties van inhoud kan lastig zijn, wat vaak leidt tot giswerk en inefficiëntie. Content Analytics elimineert het giswerk door diepgaande inzichten te verstrekken in wat inhoud efficiënt-of toon, beelden, kleur, of overseinen maakt. Het beantwoordt belangrijke vragen zoals wat de betrokkenheid drijft en hoe de inhoud kan worden geoptimaliseerd.
+Het meten van de prestaties van inhoud kan lastig zijn, wat vaak leidt tot giswerk en inefficiëntie. Content Analytics elimineert het giswerk door diepgaande inzichten te verstrekken in wat inhoud - of het toon, beelden, kleur, of overseinen efficiënt maakt. Het beantwoordt belangrijke vragen zoals wat de betrokkenheid drijft en hoe de inhoud kan worden geoptimaliseerd.
 
-Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
+Voor meer informatie, herzie de Content Analytics [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
 ## Inleiding
 
 Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te tonen wat inhoud effectief maakt. Teams kunnen hun betrokkenheid beter optimaliseren, conversies van stations stimuleren en slimmere, door gegevens ondersteunde beslissingen nemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457316/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Hoe werkt het
@@ -41,7 +41,7 @@ Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te to
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Hoe het werkt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457433/?format=jpeg&nocache=1742338375674&captions=dut" alt="Content Analytics - Hoe het werkt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Hoe het werkt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te to
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Rapportage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473043/?format=jpeg&nocache=1742338375674&captions=dut" alt="Content Analytics - Rapportage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Rapportage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

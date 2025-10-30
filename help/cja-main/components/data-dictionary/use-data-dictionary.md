@@ -8,17 +8,18 @@ kt: 13271
 role: Admin, User
 level: Beginner
 last-substantial-update: 2023-05-16T00:00:00Z
-source-git-commit: ff48b6ed75c318bfe4db34a5c7352f9200a75758
+exl-id: b63f8e7d-ae3f-4e4c-a221-3a90607e3ba3
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Het gegevenswoordenboek gebruiken
 
-Meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer Journey Analytics. Met deze functie kunnen gebruikers en beheerders de componenten in projecten volgen en begrijpen. 
+Meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer Journey Analytics. Met deze functie kunnen gebruikers en beheerders de componenten in projecten volgen en begrijpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Ga voor meer informatie over het gegevenswoordenboek in Analysis Workspace for Customer Journey Analytics naar de [documentatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=nl-NL).
+Voor meer informatie over het Woordenboek van Gegevens in Analysis Workspace voor Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Effect voor eerste gebruik
-description: Leer hoe de invloed van het eerste gebruik in de Customer Journey Analytics een vergelijking toont van hoe de belangrijkste indicatoren die vóór en na een gebruiker een producteigenschap voor het eerst hebben uitgevoerd.
+description: In deze video ziet u hoe de invloed van het eerste gebruik in Customer Journey Analytics een vergelijking toont van de manier waarop belangrijke indicatoren die voor en na een gebruiker zijn uitgevoerd voor het eerst een productfunctie gebruiken.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
 exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **het eerste gebruikseffect** in Customer Journey Analytics toont een vergelijking van hoe de zeer belangrijke indicatoren vóór en na een gebruiker een producteigenschap voor het eerst uitvoerden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432448/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=nl-NL) te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"} te bezoeken.
