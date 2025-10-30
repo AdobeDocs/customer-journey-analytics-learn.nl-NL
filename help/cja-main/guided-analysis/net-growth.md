@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **netto groei** in Customer Journey Analytics inzichten rond het tarief verstrekt waarbij u gebruikers over een specifieke periode wint of verliest.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432441/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=nl-NL){target="_blank"} te bezoeken.

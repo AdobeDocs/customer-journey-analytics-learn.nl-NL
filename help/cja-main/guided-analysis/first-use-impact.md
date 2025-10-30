@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe **het eerste gebruikseffect** in Customer Journey Analytics toont een vergelijking van hoe de zeer belangrijke indicatoren vóór en na een gebruiker een producteigenschap voor het eerst uitvoerden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432448/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=nl-NL){target="_blank"} te bezoeken.

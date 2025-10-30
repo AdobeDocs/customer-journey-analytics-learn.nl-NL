@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Ontdek hoe u de functie Volgende of Vorige in Customer Journey Analytics kunt gebruiken om complexe afgeleide velden te maken die de gegevensanalyse verbeteren. Deze zelfstudie begeleidt u door het proces om een nieuwe dimensie tot stand te brengen die marketing kanaalwaarden op gebruikersniveau samenvoegt, toelatend diepere inzichten in marketing strategieën en opbrengstgeneratie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447739/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} te bezoeken.

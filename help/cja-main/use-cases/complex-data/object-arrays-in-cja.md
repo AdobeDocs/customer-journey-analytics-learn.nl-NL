@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u objectarrays kunt gebruiken van profiel- en opzoekgegevenssets in CJA om uw B2B- en B2C-analyse te verrijken, van Verbindingen, Gegevens en Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445269/?captions=dut&learn=on)
 
 Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=nl-NL){target="_blank"}.

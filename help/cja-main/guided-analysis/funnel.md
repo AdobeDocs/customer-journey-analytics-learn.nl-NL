@@ -20,10 +20,10 @@ ht-degree: 0%
 
 Leer hoe **funnel** in Customer Journey Analytics een visuele vertegenwoordiging van een kritieke gebruikersreis in uw product verstrekt en helpt u bepalen waar er wrijving in het is.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432444/?captions=dut&learn=on)
 
 U kunt ook meerdere gebeurtenissen in één funnel-stap vergelijken en zo een &#39;forked funnel&#39; maken. Met deze &quot;geforceerde funnel&quot; kunt u de wrijving van twee reizen naast elkaar vergelijken, wat nuttig kan zijn wanneer er stapopties zijn of er een A/B-experiment wordt uitgevoerd binnen de funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445805/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"} te bezoeken.

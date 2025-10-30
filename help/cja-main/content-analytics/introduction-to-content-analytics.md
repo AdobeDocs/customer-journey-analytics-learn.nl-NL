@@ -25,7 +25,7 @@ Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B
 
 Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te tonen wat inhoud effectief maakt. Teams kunnen hun betrokkenheid beter optimaliseren, conversies van stations stimuleren en slimmere, door gegevens ondersteunde beslissingen nemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457316/?captions=dut&learn=on&enablevpops)
 
 
 ## Hoe werkt het
@@ -41,7 +41,7 @@ Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te to
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Hoe het werkt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Hoe het werkt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457433/?captions=dut&format=jpeg&nocache=1742338375674" alt="Content Analytics - Hoe het werkt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics gebruikt de AI- en Experience Platform-infrastructuur om te to
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Rapportage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Rapportage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473043/?captions=dut&format=jpeg&nocache=1742338375674" alt="Content Analytics - Rapportage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Leer over **chronologie** in Customer Journey Analytics, die u ervaringspatronen helpt vinden, betere gebruikersverhalen vertellen, en implementatie bevestigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435773/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"} te bezoeken.

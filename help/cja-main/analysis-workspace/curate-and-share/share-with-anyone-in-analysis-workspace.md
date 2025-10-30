@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Meer informatie over de functie Delen met iedereen in Workspace. U kunt deze functie gebruiken om alleen-lezen toegang te verlenen tot Workspace-projecten aan personen die geen toegang hebben tot Adobe Analytics of Customer Journey Analytics, inclusief ontvangers buiten uw organisatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452460/?captions=dut&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=nl-NL#share-public-link){target="_blank"} te bezoeken.

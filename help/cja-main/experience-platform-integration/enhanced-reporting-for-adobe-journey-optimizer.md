@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In Adobe Journey Optimizer zijn nieuwe functies beschikbaar voor rapportage en orkestmetingen. Deze verbeteringen voor Journey Optimizer omvatten ook meer interoperabiliteit en een grotere waarde voor Customer Journey Analytics via extra gegevensbronnen, geavanceerde aanpassingen, gegevensmanipulatie, analyse en meer. Voor gedetailleerde documentatie, zie [&#x200B; begonnen worden met nieuwe Rapporterende interface &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443157/?captions=dut&learn=on)

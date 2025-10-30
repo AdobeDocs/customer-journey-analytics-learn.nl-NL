@@ -22,4 +22,4 @@ Leer hoe u sjablonen in [!DNL Customer Journey Analytics] kunt gebruiken om anal
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/templates/use-templates){target="_blank"} te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470535/?captions=dut&learn=on)

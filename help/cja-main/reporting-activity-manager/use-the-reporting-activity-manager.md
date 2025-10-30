@@ -22,4 +22,4 @@ Gebruik de Manager van de Activiteit van de Rapportering in [!DNL Customer Journ
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"} te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470320/?captions=dut&learn=on)

@@ -22,4 +22,4 @@ Leer hoe u het deelvenster Toewijzing in [!DNL Customer Journey Analytics] gebru
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"} te bezoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464728/?captions=dut&learn=on)

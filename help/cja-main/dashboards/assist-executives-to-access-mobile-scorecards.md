@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Help managers bij het openen van mobiele scorecards die in [!DNL Customer Journey Analytics] zijn gemaakt met de mobiele toepassing van het dashboard van [!DNL Analytics] .  Mobiele scorecards bieden op elk moment toegang tot belangrijke prestatiegegevens en gedetailleerde weergaven, of storingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444842/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=nl-NL){target="_blank"} te bezoeken.
