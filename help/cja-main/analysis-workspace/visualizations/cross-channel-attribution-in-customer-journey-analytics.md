@@ -24,4 +24,4 @@ In deze video wordt getoond hoe u [!UICONTROL visualizations] kunt gebruiken om 
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

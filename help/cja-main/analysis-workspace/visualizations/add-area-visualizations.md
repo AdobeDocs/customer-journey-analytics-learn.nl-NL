@@ -27,4 +27,4 @@ Leer hoe u [!UICONTROL area] - en [!UICONTROL area stacked] visualisaties toevoe
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL area] visualisaties, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL area] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.

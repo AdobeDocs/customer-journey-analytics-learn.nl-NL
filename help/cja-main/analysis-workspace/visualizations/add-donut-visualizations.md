@@ -27,4 +27,4 @@ Leer [!UICONTROL donut] visualisaties toevoegen en configureren aan [!DNL Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL donut] visualisaties, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL donut] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html){target="_blank"}.

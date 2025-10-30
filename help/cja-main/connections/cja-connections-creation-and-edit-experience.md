@@ -21,4 +21,4 @@ Een nieuwe ervaring van Verbindingen met nieuwe mogelijkheden die cliënten toes
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"} te bezoeken.

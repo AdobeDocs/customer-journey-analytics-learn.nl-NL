@@ -23,5 +23,5 @@ Nadat u een [!UICONTROL Connection] in Customer Journey Analytics naar [!UICONTR
 
 ## Aanvullende resources
 
-* [ Customer Journey Analytics - de Documentatie van de Kijken van Gegevens ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}.
+* [&#x200B; Customer Journey Analytics - de Documentatie van de Kijken van Gegevens &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}.
 

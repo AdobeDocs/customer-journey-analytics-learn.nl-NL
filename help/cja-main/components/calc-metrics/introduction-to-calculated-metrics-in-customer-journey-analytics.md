@@ -24,4 +24,4 @@ In deze video bekijken we de basisbeginselen van het maken van [!UICONTROL Calcu
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

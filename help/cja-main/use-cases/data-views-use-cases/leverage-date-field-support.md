@@ -22,4 +22,4 @@ Met ondersteuning voor datumvelden kunt u in Customer Journey Analytics werken m
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#date){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#date){target="_blank"} te bezoeken.

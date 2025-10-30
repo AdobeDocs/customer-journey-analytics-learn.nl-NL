@@ -23,4 +23,4 @@ Customer Journey Analytics ondersteunt gegevens op overzichtsniveau waarmee gebr
 
 ## Aanvullende resources
 
-* Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data){target="_blank"} te bezoeken.
+* Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data){target="_blank"} te bezoeken.

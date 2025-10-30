@@ -23,4 +23,4 @@ In deze video doorlopen we een aantal basiscomponentinstellingen die u voor elk 
 
 ## Aanvullende resources
 
-* [ Customer Journey Analytics - de Documentatie van de Kijken van Gegevens ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
+* [&#x200B; Customer Journey Analytics - de Documentatie van de Kijken van Gegevens &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}

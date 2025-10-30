@@ -24,4 +24,4 @@ Deze video is geen technisch diepgaand duiken, maar een praktische blik op hoe [
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

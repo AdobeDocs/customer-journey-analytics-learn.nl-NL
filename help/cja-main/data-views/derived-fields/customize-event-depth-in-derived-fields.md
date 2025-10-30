@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u de gebeurtenisdiepte in van Customer Journey Analytics afgeleide velden configureert om analyses voor paginadiepte, interne zoekdiepte en meer aan te passen. Met deze functie kunnen gebruikers het gedrag van de gebruiker nauwkeurig volgen, waardoor de gegevensgestuurde inzichten worden verbeterd.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)

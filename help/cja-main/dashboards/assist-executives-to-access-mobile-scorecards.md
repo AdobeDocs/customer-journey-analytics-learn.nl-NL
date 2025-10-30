@@ -22,4 +22,4 @@ Help managers bij het openen van mobiele scorecards die in [!DNL Customer Journe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html){target="_blank"} te bezoeken.

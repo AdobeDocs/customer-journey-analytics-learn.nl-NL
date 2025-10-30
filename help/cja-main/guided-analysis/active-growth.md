@@ -22,4 +22,4 @@ Leer hoe **de actieve groei** in Customer Journey Analytics inzichten rond de gr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"} te bezoeken.

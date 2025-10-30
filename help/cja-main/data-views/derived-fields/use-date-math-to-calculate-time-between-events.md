@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Masterdatum wissen in van Customer Journey Analytics afgeleide velden. Date Math berekent tijdverschillen tussen gebeurtenissen, zoals zoek-aan-orde duur, voor diepere analyse van het gebruikersgedrag. Gebruik dynamische datumbereiken en flexibele configuraties om de analysemogelijkheden te optimaliseren voor industrieën zoals reizen en ziekenhuisopname.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)

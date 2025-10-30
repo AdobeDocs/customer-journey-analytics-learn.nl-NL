@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u sjablonen in [!DNL Customer Journey Analytics] kunt gebruiken om analyse en rapportage te stroomlijnen. Sjablonen zijn vooraf samengestelde configuraties voor algemene bedrijfsanalyses, zoals websitebezoeken, zoektrefwoorden en de duur van de bezoeker. Deze video begeleidt u door het selecteren, voorvertonen en aanpassen van sjablonen in de Analysis Workspace om op maat gemaakte projecten te maken.
 
-Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/use-templates){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/use-templates){target="_blank"} te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
