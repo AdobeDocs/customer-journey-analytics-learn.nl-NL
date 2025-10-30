@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Overzicht van segmenten
 
-Segmenten identificeren subsets van bezoekers of klanten op basis van kenmerken en gebeurtenissen, zoals bezoekers van de website of betrokkenheid van het callcenter. Meer informatie over de belangrijkste componenten van Segment Builder in Customer Journey Analytics. Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
+Segmenten identificeren subsets van bezoekers of klanten op basis van kenmerken en gebeurtenissen, zoals bezoekers van de website of betrokkenheid van het callcenter. Meer informatie over de belangrijkste componenten van Segment Builder in Customer Journey Analytics. Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >

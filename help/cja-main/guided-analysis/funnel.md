@@ -26,4 +26,4 @@ U kunt ook meerdere gebeurtenissen in één funnel-stap vergelijken en zo een &#
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"} te bezoeken.

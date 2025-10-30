@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Dynamische vervolgkeuzelijsten maken in Analysis Workspace
 
-Leer hoe te om drop-down segmenten tot stand te brengen die op een volledige afmeting worden gebaseerd. Dimension-items worden dynamisch bijgewerkt op basis van het datumbereik dat wordt gebruikt in het rapportvenster. Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"} te bezoeken.
+Leer hoe te om drop-down segmenten tot stand te brengen die op een volledige afmeting worden gebaseerd. Dimension-items worden dynamisch bijgewerkt op basis van het datumbereik dat wordt gebruikt in het rapportvenster. Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"} te bezoeken.
 
 >[!NOTE]
 >

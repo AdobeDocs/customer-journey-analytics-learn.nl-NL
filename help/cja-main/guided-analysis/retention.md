@@ -24,4 +24,4 @@ Leer hoe u start- en retourgebeurtenissen kunt gebruiken om de betrokkenheid en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"} te bezoeken.

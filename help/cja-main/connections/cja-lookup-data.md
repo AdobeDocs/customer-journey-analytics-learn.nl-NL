@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Met CJA Lookups op opzoekings- en profielgegevens kunnen gebruikers diepere relaties tussen gegevenselementen gebruiken, zoals personen die in B2B-gebruiksgevallen een account moeten maken.  In deze video, behandelen wij hoe te om raadplegingsgegevens aan raadpleging en profieldatasets toe te voegen en hoe te om uit te plannen en uw zeer belangrijke gebieden in kaart te brengen.  Nota, als er één aan vele verhouding tussen de sleutel en de raadplegingswaarde is, zal de meest recente waarde worden gebruikt.
 
-Voor gedetailleerde documentatie, bezoek [&#x200B; types van Dataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types){target="_blank"} en [&#x200B; voeg rekening-vlakke gegevens als raadplegingsdataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en){target="_blank"} toe.
+Voor gedetailleerde documentatie, bezoek [&#x200B; types van Dataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=nl-NL#dataset-types){target="_blank"} en [&#x200B; voeg rekening-vlakke gegevens als raadplegingsdataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=nl-NL){target="_blank"} toe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

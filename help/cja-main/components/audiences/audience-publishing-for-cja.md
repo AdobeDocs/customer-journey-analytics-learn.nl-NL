@@ -22,4 +22,4 @@ Leer hoe u publiek kunt publiceren van Customer Journey Analytics naar het &#39;
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=en){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=nl-NL){target="_blank"} te bezoeken.

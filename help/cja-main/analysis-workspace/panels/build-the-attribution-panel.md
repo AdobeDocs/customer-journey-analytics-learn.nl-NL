@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u het deelvenster Toewijzing in [!DNL Customer Journey Analytics] gebruikt. In deze video ziet u hoe u succesmaatstaven definieert, toewijzingsmodellen selecteert en vergelijkt en visualisaties zoals staafdiagrammen, venn-diagrammen en kanaalstroom aanpast om inzicht te krijgen in de reisinteracties van klanten.
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"} te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)

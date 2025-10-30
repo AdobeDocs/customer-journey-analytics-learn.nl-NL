@@ -22,4 +22,4 @@ De functionaliteit Eerste en Terugkerende sessies biedt de mogelijkheid om onder
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#new-repeat){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=nl-NL#new-repeat){target="_blank"} te bezoeken.

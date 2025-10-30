@@ -22,4 +22,4 @@ In deze video laten we zien hoe we functies voor gegevenspresentatie kunnen gebr
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Voor meer informatie, te zien gelieve de [&#x200B; documentatie van de de bronschakelaar van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html){target="_blank"} en [&#x200B; prep functies van Gegevens documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html){target="_blank"}.
+Voor meer informatie, te zien gelieve de [&#x200B; documentatie van de de bronschakelaar van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=nl-NL){target="_blank"} en [&#x200B; prep functies van Gegevens documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=nl-NL){target="_blank"}.

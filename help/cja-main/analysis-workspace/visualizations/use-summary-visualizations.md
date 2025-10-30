@@ -27,4 +27,4 @@ Leer hoe u [!UICONTROL summary] visualisaties kunt gebruiken in [!DNL Analysis W
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL summary] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL summary] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=nl-NL){target="_blank"}.

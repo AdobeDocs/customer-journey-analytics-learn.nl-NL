@@ -21,4 +21,4 @@ Leer tekenreeksmanipulatiemethoden gebruiken om het gewenste gedeelte van dimens
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=nl-NL){target="_blank"} te bezoeken.

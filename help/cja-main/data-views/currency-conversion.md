@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Valutaconversie in Customer Journey Analytics
 
-Voer valutaconversie uit in de analyse van de klantentransmissie door het plaatsen in de Mening van Gegevens. Met deze functie kunt u meerdere maateenheden maken die in verschillende valuta&#39;s worden weergegeven. Voor gedetailleerde documentatie, gelieve te bezoeken {de componentenmontages van 0} Formaat [.](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=en#currency){target="_blank"}
+Voer valutaconversie uit in de analyse van de klantentransmissie door het plaatsen in de Mening van Gegevens. Met deze functie kunt u meerdere maateenheden maken die in verschillende valuta&#39;s worden weergegeven. Voor gedetailleerde documentatie, gelieve te bezoeken {de componentenmontages van 0} Formaat [.](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=nl-NL#currency){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

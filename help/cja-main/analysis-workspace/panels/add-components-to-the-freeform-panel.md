@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Gebruik de vrije deelvensters van de Vorm om, uw gegevens van de klantenervaring door een flexibele, belemmering-en-dalingsinterface te onderzoeken te vergelijken en te correleren.
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"} te bezoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

@@ -22,4 +22,4 @@ Leer hoe u het deelvenster Experimentatie configureert en gebruikt. In dit deelv
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=nl-NL){target="_blank"} te bezoeken.

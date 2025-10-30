@@ -25,4 +25,4 @@ In deze video leert u tips voor het opnieuw maken van uw Adobe Analytics [!UICON
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
