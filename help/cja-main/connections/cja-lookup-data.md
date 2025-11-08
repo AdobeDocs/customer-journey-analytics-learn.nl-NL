@@ -23,4 +23,4 @@ Met CJA Lookups op opzoekings- en profielgegevens kunnen gebruikers diepere rela
 
 Voor gedetailleerde documentatie, bezoek [&#x200B; types van Dataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=nl-NL#dataset-types){target="_blank"} en [&#x200B; voeg rekening-vlakke gegevens als raadplegingsdataset &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=nl-NL){target="_blank"} toe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449876/?captions=dut&learn=on)
