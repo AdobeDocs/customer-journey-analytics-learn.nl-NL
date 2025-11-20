@@ -20,6 +20,6 @@ ht-degree: 87%
 
 Leer hoe u intelligente bijschriften in uw visualisaties kunt inschakelen, zodat u automatisch natuurlijke taalinzichten krijgt over uw gegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443144/?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Voor meer informatie, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=nl-NL){target="_blank"} te bezoeken.
+Voor meer informatie, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en){target="_blank"} te bezoeken.

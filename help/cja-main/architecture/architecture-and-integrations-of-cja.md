@@ -14,8 +14,8 @@ level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 30%
 
 ---
 
@@ -25,4 +25,4 @@ In deze video vindt u een analyse van de architectuur van Customer Journey Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Voor meer informatie betreffende Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
+Voor meer informatie betreffende Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

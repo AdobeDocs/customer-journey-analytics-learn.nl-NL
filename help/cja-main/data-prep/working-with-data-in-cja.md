@@ -13,8 +13,8 @@ level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 32%
 
 ---
 
@@ -24,4 +24,4 @@ In deze video leert u hoe [!UICONTROL dataset] [!UICONTROL schemas] wordt omgeze
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
+Voor meer informatie over Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
