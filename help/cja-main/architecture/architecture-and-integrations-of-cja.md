@@ -25,4 +25,4 @@ In deze video vindt u een analyse van de architectuur van Customer Journey Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Voor meer informatie betreffende Customer Journey Analytics, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Voor meer informatie betreffende Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
