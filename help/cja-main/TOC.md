@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
+source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 4%
+source-wordcount: '576'
+ht-degree: 3%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 4%
 + Basisbegrippen voor Customer Journey Analytics {#cja-basics}
    + [Wat is Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Inleiding tot Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Inleiding tot Customer Journey Analytics - B2B edition](cja-basics/cja-b2b-overview.md)
    + [Nieuwe termen en concepten](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics-landingspagina](cja-basics/customer-journey-analytics-landing-page.md)
    + [AI-assistent gebruiken](cja-basics/use-ai-assistant.md)
++ Customer Journey Analytics B2B edition {#b2b}
+   + [Inleiding tot Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition - Meer dan de eerste vragen](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA integreren met Marketo for B2B Insights](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Architectuur {#architecture}
    + [Architectuur en integratie](architecture/architecture-and-integrations-of-cja.md)
 + Voorbereiding en planning van gegevens {#data-prep}
@@ -66,7 +69,7 @@ ht-degree: 4%
    + [De Data Insights Agent gebruiken](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-projecten {#workspace-projects}
-      + [&#x200B; overzicht van Analysis Workspace &#x200B;](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [ overzicht van Analysis Workspace ](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace-sjablonen](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + [Workspace-commentaar](analysis-workspace/workspace-projects/workspace-commenting.md)
@@ -112,11 +115,11 @@ ht-degree: 4%
    + [Betrokkenheid](guided-analysis/engagement.md)
    + [Effect voor eerste gebruik](guided-analysis/first-use-impact.md)
    + [Frequentie](guided-analysis/frequency.md)
-   + [&#x200B; Funnel &#x200B;](guided-analysis/funnel.md)
-   + [&#x200B; Netto groei &#x200B;](guided-analysis/net-growth.md)
+   + [ Funnel ](guided-analysis/funnel.md)
+   + [ Netto groei ](guided-analysis/net-growth.md)
    + [Geen effect](guided-analysis/release-impact.md)
    + [Bewaren](guided-analysis/retention.md)
-   + [&#x200B; Chronologie &#x200B;](guided-analysis/timeline.md)
+   + [ Chronologie ](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Onderdelen {#components}
    + Segmenten {#filters}
@@ -134,7 +137,7 @@ ht-degree: 4%
    + Soorten publiek {#audiences}
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
-      + [&#x200B; Woordenboek van Gegevens van het Gebruik &#x200B;](components/data-dictionary/use-data-dictionary.md)
+      + [ Woordenboek van Gegevens van het Gebruik ](components/data-dictionary/use-data-dictionary.md)
 + Content Analytics {#content-analytics}
    + [Inleiding](content-analytics/introduction-to-content-analytics.md)
    + [Hoe werkt het](content-analytics/how-it-works.md)
@@ -160,6 +163,6 @@ ht-degree: 4%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [&#x200B; de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [&#x200B; Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [&#x200B; scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [ de blauwdruk van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [ Digitaal scenario van de gedragsgegevensconsolidatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [ scenario van de de vervormingsreis van de vraag de analyse ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
