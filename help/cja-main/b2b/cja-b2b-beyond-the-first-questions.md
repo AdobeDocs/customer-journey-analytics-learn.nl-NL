@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u de B2B-analysemogelijkheden kunt verhogen door geavanceerde vragen te formuleren en verder te gaan dan de standaardmeetwaarden in Adobe Customer Journey Analytics (CJA). Maak kennis met strategische kansen en activeerbare inzichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477520/?captions=dut&learn=on)
