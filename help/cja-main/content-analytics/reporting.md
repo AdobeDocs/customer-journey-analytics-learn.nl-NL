@@ -22,4 +22,4 @@ Ontdek hoe [!DNL Content Analytics] het bijhouden van elementen automatiseert en
 
 Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473043/?captions=dut&learn=on&enablevpops)

@@ -22,4 +22,4 @@ Leer hoe [!DNL Content Analytics] werkt met Customer Journey Analytics en Experi
 
 Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457433/?captions=dut&learn=on&enablevpops)
