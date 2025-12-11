@@ -2,13 +2,14 @@
 title: Content Analytics - Configuratie maken
 description: Leer hoe u de workflow met instructies voor Content Analytics gebruikt. Het vereenvoudigt het opstellingsproces voor Marketers, toelatend efficiënte gegevensinzameling, verwerking, en rapportering binnen Customer Journey Analytics.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 299
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17557
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+exl-id: 1e602afb-e7ab-4391-ba62-5801c75b279e
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u de [!DNL Content Analytics] geleide workflow gebruikt. Het vereenvoudigt het opstellingsproces voor Marketers, toelatend efficiënte gegevensinzameling, verwerking, en rapportering binnen Customer Journey Analytics.
 
-Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)

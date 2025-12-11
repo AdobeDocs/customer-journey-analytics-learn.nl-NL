@@ -2,13 +2,14 @@
 title: Content Analytics - Hoe het werkt
 description: Leer hoe Content Analytics werkt met Customer Journey Analytics en Experience Platform.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 337
 last-substantial-update: 2025-04-03T00:00:00Z
 jira: KT-17555
-source-git-commit: 528f26fade528634cc24f1ed2818fc74edfe86c0
+exl-id: f2244ca9-0392-493c-a0e0-bf73baf8e874
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe [!DNL Content Analytics] werkt met Customer Journey Analytics en Experience Platform.
 
-Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} .
+Voor meer informatie, herzie de Content Analytics [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457433/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
