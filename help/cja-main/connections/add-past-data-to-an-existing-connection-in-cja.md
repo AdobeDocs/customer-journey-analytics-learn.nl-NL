@@ -24,4 +24,4 @@ Haal meer uit uw analyse door nieuwe gegevens van andere kanalen toe te voegen a
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-Voor meer informatie over Analytics over Kanaal, herzie de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html){target="_blank"}.
+Voor meer informatie over Analytics over Kanaal, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html){target="_blank"}.

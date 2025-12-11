@@ -22,4 +22,4 @@ Leer hoe u objectarrays kunt gebruiken van profiel- en opzoekgegevenssets in CJA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html){target="_blank"}.
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html){target="_blank"}.
