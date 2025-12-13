@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Deze video is geen technisch diepgaand duiken, maar een praktische blik op hoe [!UICONTROL identity] uw analyse in Customer Journey Analytics beïnvloedt, met inbegrip van een blik op dwars-kanaal [!UICONTROL visualizations] die door [!UICONTROL visitor] IDs wordt gemaakt te stitching.
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3477622/?captions=dut&learn=on&quality=12)
 
 Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
