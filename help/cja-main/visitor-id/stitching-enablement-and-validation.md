@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video doorloopt u het toelaten van het stitching op om het even welke gebeurtenisdataset. Bovendien, zodra het stitching op een dataset is toegelaten zal het helpen verschillende metriek en afmetingen tonen die u kunt gebruiken om te bevestigen dat het werkt en de waarde het brengt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478126/?captions=dut&learn=on&enablevpops)
