@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe te om AI-Gegenereerd verkeer in Adobe Customer Journey Analytics te identificeren en te filtreren gebruikend afgeleide gebieden, segmenten, en de projecten van Workspace om nauwkeurige, menselijke-geconcentreerde klanteninzichten te verzekeren. Deze snelle zelfstudie voor beheerders en marketers toont de stapsgewijze installatie om LLM-borden te detecteren via gebruikersagents, referenties en meer, zodat uw gegevens schoon en actionabel blijven.
 
-Voor meer informatie, herzie de Content Analytics [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
+Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
