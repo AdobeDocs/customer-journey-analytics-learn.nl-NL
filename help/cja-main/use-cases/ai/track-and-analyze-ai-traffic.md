@@ -22,4 +22,4 @@ Leer hoe te om AI-Gegenereerd verkeer in Adobe Customer Journey Analytics te ide
 
 Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478581/?captions=dut&learn=on&enablevpops)
