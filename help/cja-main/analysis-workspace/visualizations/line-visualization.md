@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek hoe de lijnvisualisaties uw begrip van metriek in tijd kunnen verbeteren. Pas de X/Y-assen aan, toon min/max-labels en voeg trendlijnen toe om uw gegevensinzicht met Customer Journey Analytics te verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478985/?captions=dut&learn=on&enablevpops)
