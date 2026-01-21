@@ -22,4 +22,4 @@ Ontdek de krachtige [!DNL Data Storytelling] -functie in Adobe Customer Journey 
 
 Voor meer informatie, herzie de Content Analytics [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479125/?captions=dut&learn=on&enablevpops)
