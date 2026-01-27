@@ -22,4 +22,4 @@ Ontdek hoe Adobe Customer Journey Analytics (CJA), gebouwd op Adobe Experience P
 
 Voor meer informatie, herzie [&#x200B; zeer belangrijke overwegingen alvorens aan CJA &#x200B;](https://experienceleague.adobe.com/nl/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"} te migreren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479332/?captions=dut&learn=on&enablevpops)
