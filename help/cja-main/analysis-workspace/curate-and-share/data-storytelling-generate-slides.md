@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Ontdek de krachtige [!DNL Data Storytelling] -functie in Adobe Customer Journey Analytics die gebruikmaakt van generatieve AI om uw Analysis Workspace-projecten om te zetten in professionele PowerPoint-presentaties, compleet met gekromde visualisaties, belangrijke inzichten en een aansprekend verhaal. Met dit tijdbesparende gereedschap kunt u snel trends voor de klant, conversiestuurprogramma&#39;s en aanbevelingen voor handelingen met belanghebbenden delen.
 
-Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
