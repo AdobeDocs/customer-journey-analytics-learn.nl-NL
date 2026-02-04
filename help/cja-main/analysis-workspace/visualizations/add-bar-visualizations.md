@@ -8,11 +8,11 @@ thumbnail: 334308.jpg
 kt: 13402
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-04T00:00:00Z
 exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 1e48f7b47c07d5fbccb5561ab666f0fcea87e192
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,6 @@ ht-degree: 0%
 
 Leer hoe u standaard [!UICONTROL bar] - en [!UICONTROL stacked bar] visualisaties in [!DNL Analysis Workspace] -projecten in [!DNL Customer Journey Analytics] toevoegt en configureert. Deze gebruiken [!UICONTROL bar] formaties om waarden over metriek te vertegenwoordigen.
 
->[!NOTE]
->
->De gebruikersinterface en functies van [!DNL Analysis Workspace] zijn vergelijkbaar in [!DNL Adobe Analytics] en [!DNL Customer Journey Analytics] .
+>[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
-
-Voor meer informatie over [!UICONTROL bar] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=nl-NL){target="_blank"}.
+Voor meer informatie over [!UICONTROL bar] visualisaties, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
