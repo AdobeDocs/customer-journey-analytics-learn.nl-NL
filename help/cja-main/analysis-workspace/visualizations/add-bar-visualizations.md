@@ -23,4 +23,4 @@ Leer hoe u standaard [!UICONTROL bar] - en [!UICONTROL stacked bar] visualisatie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL bar] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL bar] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=nl-NL){target="_blank"}.
