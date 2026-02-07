@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Leer hoe u [!UICONTROL area] - en [!UICONTROL area stacked] visualisaties toevoegt aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics] . Deze visualisaties zijn ideaal om te gebruiken wanneer er veelvoudige metriek zijn waarvoor u het gebied wilt visualiseren dat op de doorsnede wordt gebaseerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479646/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over [!UICONTROL area] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=nl-NL){target="_blank"}.
