@@ -168,6 +168,6 @@ ht-degree: 3%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [&#x200B; de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [&#x200B; Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [&#x200B; scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [&#x200B; de blauwdruk van Customer Journey Analytics](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [&#x200B; Digitaal scenario van de gedragsgegevensconsolidatie](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [&#x200B; scenario van de de vervormingsreis van de vraag de analyse](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

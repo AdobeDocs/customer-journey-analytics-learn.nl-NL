@@ -22,4 +22,4 @@ Leer hoe u tekstvisualisaties kunt toevoegen en configureren in Analysis Workspa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL text] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL text] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=nl-NL){target="_blank"}.
