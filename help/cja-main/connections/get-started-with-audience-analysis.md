@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Ontdek hoe de Analyse van het Publiek de kijkers publiekssegmenten van Experience Platform laat opnemen en echt klantengedrag over kanalen voor betere campagneoptimalisering analyseert. Leer de eenvoudige opstellingsstappen om de gegevens van het publiekslidmaatschap toe te laten, vooraf gebouwde malplaatjes te onderzoeken, en actionable inzichten te ontdekken die verpersoonlijking, omzettingen, en ROI drijven.
 
-Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
