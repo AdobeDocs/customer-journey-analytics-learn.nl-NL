@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u volledig gestapelde visualisaties configureert met percentages in plaats van onbewerkte waarden in Analysis Workspace-projecten in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479703/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over [!UICONTROL fully stacked var] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=nl-NL){target="_blank"}.

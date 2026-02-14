@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Leer hoe u tekstvisualisaties kunt toevoegen en configureren in Analysis Workspace-projecten in Customer Journey Analytics. Deze visualisatie is nuttig wanneer u zorgen over metriek wilt overbrengen of context aan andere gegevens in een project toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479714/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over [!UICONTROL text] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=nl-NL){target="_blank"}.

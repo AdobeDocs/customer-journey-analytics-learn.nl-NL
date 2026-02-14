@@ -22,4 +22,4 @@ Ontdek hoe de Analyse van het Publiek de kijkers publiekssegmenten van Experienc
 
 Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479810/?captions=dut&learn=on&enablevpops)
