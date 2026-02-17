@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Ontdek hoe real-time rapportage in Adobe Customer Journey Analytics belangrijke metriek zoals opbrengst, omzettingen, en bezoeken direct in Analysis Workspace levert. Ideaal voor belangrijke promoties, productlanceringen, en reis bevestiging-deze eigenschap machtigt marketers om snellere, data-gedreven besluiten te nemen wanneer elke minuut telt.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
