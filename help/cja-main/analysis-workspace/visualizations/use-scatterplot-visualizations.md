@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Leer hoe u [!UICONTROL scatter] visualisatie kunt gebruiken in [!DNL Analysis Workspace] -projecten in [!DNL Customer Journey Analytics] . Deze visualisatie toont het verband tussen afmetingspunten en tot drie metriek.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479975/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over [!UICONTROL scatter] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=nl-NL){target="_blank"}.
