@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Leer hoe [!UICONTROL bullet graphs] wordt gebruikt en hoe u deze kunt toevoegen aan [!DNL Analysis Workspace] projecten in [!DNL Customer Journey Analytics] . Deze grafiek toont u hoe een waarde van rente met of maatregelen tegen doelstellingen vergelijkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479964/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=nl-NL){target="_blank"}.
