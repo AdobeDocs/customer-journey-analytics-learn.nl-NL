@@ -20,4 +20,4 @@ Leer hoe [!UICONTROL bullet graphs] wordt gebruikt en hoe u deze kunt toevoegen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.
+Voor meer informatie over [!UICONTROL bullet graph] visualisaties, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.
