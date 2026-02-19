@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Volledige tabelexport beheren en beheren
 
-Leer hoe u de volledige tabelexport in Customer Journey Analytics beheert en beheert.  Deze functies stellen CJA-beheerders in staat om toezicht te stroomlijnen, handmatige controles te verminderen, automatisering te verbeteren en betrouwbare gegevenslevering naar cloudinstellingen te garanderen. Voor meer details, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
+Leer hoe u de volledige tabelexport in Customer Journey Analytics beheert en beheert.  Deze functies stellen CJA-beheerders in staat om toezicht te stroomlijnen, handmatige controles te verminderen, automatisering te verbeteren en betrouwbare gegevenslevering naar cloudinstellingen te garanderen. Voor meer details, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
