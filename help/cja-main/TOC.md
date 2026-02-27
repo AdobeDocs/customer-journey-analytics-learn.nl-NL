@@ -71,7 +71,7 @@ ht-degree: 0%
    + [De Data Insights Agent gebruiken](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-projecten {#workspace-projects}
-      + [ overzicht van Analysis Workspace ](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [&#x200B; overzicht van Analysis Workspace &#x200B;](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace-sjablonen](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + [Workspace-commentaar](analysis-workspace/workspace-projects/workspace-commenting.md)
@@ -119,11 +119,11 @@ ht-degree: 0%
    + [Betrokkenheid](guided-analysis/engagement.md)
    + [Effect voor eerste gebruik](guided-analysis/first-use-impact.md)
    + [Frequentie](guided-analysis/frequency.md)
-   + [ Funnel ](guided-analysis/funnel.md)
-   + [ Netto groei ](guided-analysis/net-growth.md)
+   + [&#x200B; Funnel &#x200B;](guided-analysis/funnel.md)
+   + [&#x200B; Netto groei &#x200B;](guided-analysis/net-growth.md)
    + [Geen effect](guided-analysis/release-impact.md)
    + [Bewaren](guided-analysis/retention.md)
-   + [ Chronologie ](guided-analysis/timeline.md)
+   + [&#x200B; Chronologie &#x200B;](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Componenten {#components}
    + Segmenten {#filters}
@@ -133,7 +133,7 @@ ht-degree: 0%
       + [Segmenten gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
       + [Soorten publiek maken van segmenten](components/filters/create-audiences-from-segments.md)
       + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + [ Echt - tijd rapporterend ](components/real-time-reporting.md)
+   + [&#x200B; Echt - tijd rapporterend &#x200B;](components/real-time-reporting.md)
    + Afmetingen {#dimensions}
       + [Diepte van gebeurtenis](components/dimensions/event-depth-in-cja.md)
    + Berekende cijfers {#calc-metrics}
@@ -142,7 +142,7 @@ ht-degree: 0%
    + Doelgroepen {#audiences}
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
-      + [ Woordenboek van Gegevens van het Gebruik ](components/data-dictionary/use-data-dictionary.md)
+      + [&#x200B; Woordenboek van Gegevens van het Gebruik &#x200B;](components/data-dictionary/use-data-dictionary.md)
 + Content Analytics {#content-analytics}
    + [Inleiding](content-analytics/introduction-to-content-analytics.md)
    + [Hoe werkt het](content-analytics/how-it-works.md)
