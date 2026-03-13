@@ -1,25 +1,25 @@
 ---
 title: Inleiding tot Customer Journey Analytics
-description: Adobe's Customer Journey Analytics (CJA) is een applicatieservice die op het Adobe Experience Platform is gebouwd. Het brengt de uitgebreide analysetool die bekend staat als Analysis Workspace naar het Platform, zodat u via meerdere kanalen analyse kunt uitvoeren op al uw gegevenssets van het Platform.
-landing-page-description: Leer hoe u analyses over meerdere kanalen kunt uitvoeren op een van uw Experience Platform-gegevenssets.
-short-description: Leer hoe u analyses over meerdere kanalen kunt uitvoeren op een van uw Experience Platform-gegevenssets.
+description: Adobe Customer Journey Analytics (CJA) is de Adobe-oplossing voor de volgende generatie van analysemogelijkheden die is gebaseerd op Adobe Experience Platform.
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
+duration: 270
+last-substantial-update: 2026-03-13T00:00:00Z
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
-source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
+source-git-commit: 792a56b240f88b4a6bf6b5f7f2be4c4fb411242e
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 74%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
 # Inleiding tot Customer Journey Analytics
 
-Adobe Customer Journey Analytics (CJA) is een toepassingsservice die op Adobe Experience Platform is gebouwd. Het brengt de uitgebreide analysetool die bekend staat als Analysis Workspace naar het Platform, zodat u via meerdere kanalen analyse kunt uitvoeren op al uw gegevenssets van het Platform.
+Adobe Customer Journey Analytics (CJA) is de Adobe-oplossing voor de volgende generatie van analysemogelijkheden die is gebaseerd op Adobe Experience Platform. Het verenigt online en off-line gegevensbronnen-als websites, mobiele apps, callcenters, CRM, en in-store systemen-in één persoon-centric mening om volledige klantenreizen over kanalen en apparaten te analyseren. Met de Analysis Workspace-interface voor slepen en neerzetten kunt u op gebeurtenisniveau gekoppelde rapporten met meerdere kanalen maken.
+
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
-
-Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
