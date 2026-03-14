@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In deze video bespreken we belangrijke termen en concepten in Customer Journey Analytics, hoe ze worden toegewezen aan termen en concepten in Adobe Analytics, en ook waar ze te zien zijn in de Customer Journey Analytics interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481341/?captions=dut&quality=12&learn=on)
 
 Voor meer informatie over Customer Journey Analytics, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=nl-NL){target="_blank"}.
