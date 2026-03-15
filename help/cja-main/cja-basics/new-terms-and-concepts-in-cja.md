@@ -26,4 +26,4 @@ Leer hoe u uw bestaande Adobe Analytics-kennis omzet in Customer Journey Analyti
 
 Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481341/?captions=dut&quality=12&learn=on)
