@@ -21,6 +21,6 @@ Leer over de eigenschap van de datasetvoorproef in Customer Journey Analytics di
 
 Evalueer de geschiktheid van de dataset voor betrouwbare cross-device en cross-channel rapportering alvorens in te gaan, dramatisch verminderend tijd aan waarde en het risico van identiteitsstrategiebesluiten met inzicht in real time.
 
-Voor meer informatie, herzie de [ documentatie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
