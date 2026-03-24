@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
+source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 1%
    + [Gegevens van Adobe Analytics-classificaties invoegen en gebruiken](data-prep/ingest-and-use-analytics-classifications.md)
 + Toegangsbeheer {#access-control}
    + [Machtigingen instellen](permissions/set-up-permissions.md)
-+ Verbindingen {#connections}
++ Connecties {#connections}
    + [Verbinding maken met Experience Platform-gegevensbronnen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Verbindingsinstellingen weergeven, problemen oplossen en wijzigen](connections/connections-details-experience-in-cja.md)
    + [Nieuwe gegevens toevoegen aan een verbinding](connections/add-past-data-to-an-existing-connection-in-cja.md)
@@ -40,9 +40,10 @@ ht-degree: 1%
    + [Aan de slag met Audience Analysis](connections/get-started-with-audience-analysis.md)
 + Identificatie bezoeker {#visitor-id}
    + [Begrijpen hoe CJA identiteit gebruikt](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [Een ontbrekende persoon-id configureren](visitor-id/configure-missing-person-id.md)
    + [Overzicht van stitching](visitor-id/overview-of-stitching.md)
+   + [Gegevens- en stitching-kwaliteit valideren met behulp van voorvertoning](visitor-id/validate-identity-stitching-quality.md)
    + [Inschakelen en valideren van titels](visitor-id/stitching-enablement-and-validation.md)
+   + [Een ontbrekende persoon-id configureren](visitor-id/configure-missing-person-id.md)
 + Gegevensweergaven {#data-views}
    + [Overzicht van het configureren van gegevensweergaven voor CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Basisconfiguratie voor gegevensweergaven](data-views/basic-configuration-for-data-views.md)
@@ -71,7 +72,7 @@ ht-degree: 1%
    + [De Data Insights Agent gebruiken](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-projecten {#workspace-projects}
-      + [&#x200B; overzicht van Analysis Workspace &#x200B;](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [ overzicht van Analysis Workspace ](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Een nieuw project maken](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace-sjablonen](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + [Workspace-commentaar](analysis-workspace/workspace-projects/workspace-commenting.md)
@@ -119,11 +120,11 @@ ht-degree: 1%
    + [Betrokkenheid](guided-analysis/engagement.md)
    + [Effect voor eerste gebruik](guided-analysis/first-use-impact.md)
    + [Frequentie](guided-analysis/frequency.md)
-   + [&#x200B; Funnel &#x200B;](guided-analysis/funnel.md)
-   + [&#x200B; Netto groei &#x200B;](guided-analysis/net-growth.md)
+   + [ Funnel ](guided-analysis/funnel.md)
+   + [ Netto groei ](guided-analysis/net-growth.md)
    + [Geen effect](guided-analysis/release-impact.md)
    + [Bewaren](guided-analysis/retention.md)
-   + [&#x200B; Chronologie &#x200B;](guided-analysis/timeline.md)
+   + [ Chronologie ](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Componenten {#components}
    + Segmenten {#filters}
@@ -133,7 +134,7 @@ ht-degree: 1%
       + [Segmenten gebruiken als afmetingen](components/filters/use-filters-as-dimensions.md)
       + [Soorten publiek maken van segmenten](components/filters/create-audiences-from-segments.md)
       + [Adobe Analytics-segmenten verplaatsen naar Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + [&#x200B; Echt - tijd rapporterend &#x200B;](components/real-time-reporting.md)
+   + [ Echt - tijd rapporterend ](components/real-time-reporting.md)
    + Afmetingen {#dimensions}
       + [Diepte van gebeurtenis](components/dimensions/event-depth-in-cja.md)
    + Berekende cijfers {#calc-metrics}
@@ -142,7 +143,7 @@ ht-degree: 1%
    + Doelgroepen {#audiences}
       + [Publicatie door het publiek](components/audiences/audience-publishing-for-cja.md)
    + Gegevenswoordenboek {#data-dictionary}
-      + [&#x200B; Woordenboek van Gegevens van het Gebruik &#x200B;](components/data-dictionary/use-data-dictionary.md)
+      + [ Woordenboek van Gegevens van het Gebruik ](components/data-dictionary/use-data-dictionary.md)
 + Content Analytics {#content-analytics}
    + [Inleiding](content-analytics/introduction-to-content-analytics.md)
    + [Hoe werkt het](content-analytics/how-it-works.md)
@@ -171,6 +172,6 @@ ht-degree: 1%
    + Complexe gegevens {#complex-data}
       + [Arrays van objecten gebruiken](use-cases/complex-data/object-arrays-in-cja.md)
 + Blauwdrukken {#blueprints}
-   + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/nl/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics blauwdruk](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Consolidatiescenario voor digitale gedragsgegevens](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Analyescenario voor de afbuigingstraject van de vraag](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
