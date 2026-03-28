@@ -23,4 +23,4 @@ Evalueer de geschiktheid van de dataset voor betrouwbare cross-device en cross-c
 
 Voor meer informatie, herzie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481898/?captions=dut&learn=on&enablevpops)
