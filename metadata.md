@@ -3,20 +3,22 @@ cloud: Experience Cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
+landing-page-name: customer-journey-analytics
+landing-page-breadcrumb-title: Customer Journey Analytics
 type: Tutorial
 solution-title: Customer Journey Analytics
-solution-hub-url: https://docs.adobe.com/content/help/nl-NL/customer-journey-analytics-learn/tutorials/overview.html
+solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
-getting-started-url: https://experienceleague.adobe.com/nl
+getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.en
 index: true
 mini-toc-levels: 2
 auto-video-transcripts: true
-source-git-commit: b3aa3217c8e3c4b95fd3d8b42215f4711dd555a1
+source-git-commit: 2518c38fa78543d839439dfadd3844f38b1c3a55
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
